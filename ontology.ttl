@@ -1,0 +1,44 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix gufo: <http://purl.org/nemo/gufo#> .
+@prefix : <http://example.org/newman#> .
+
+:Concept rdf:type owl:Class;
+    rdfs:label "Concept" ;
+    rdfs:comment "In this context, concepts are concrete ideas or categories that are being analyzed." ;
+    rdf:type gufo:Category ;
+    rdfs:subClassOf gufo:Object .
+
+:SemanticAspect rdf:type owl:Class ;
+    rdfs:label "SemanticAspect" ;
+    rdfs:comment "A semantic aspect is a particular feature or element of a concept, often used to describe specific characteristics or properties. When translating instances of semantic aspects, the network of meaning should be preserved." ;
+    rdf:type gufo:Category ;
+    rdfs:subClassOf gufo:IntrinsicMode .
+
+:semanticAspectOf rdf:type owl:ObjectProperty ;
+    rdfs:label "semantic aspect of" ;
+    rdfs:comment "This property links a semantic aspect to the concept it describes." ;
+    rdfs:subPropertyOf gufo:inheresIn ;
+    rdfs:domain :SemanticAspect ;
+    rdfs:range :Concept .
+
+:AnglicanChurch rdf:type :Concept ;
+    rdfs:label "Anglican Church"@en ;
+    rdfs:label "Igreja Anglicana"@pt .
+
+:Establishment rdf:type :SemanticAspect ;
+    rdfs:label "Establishment"@en ;
+    rdfs:label "Estabelecimento"@pt ;
+    :isSemanticAspectOf :AnglicanChurch .
+
+:NationalEstablishment rdf:type :SemanticAspect ;
+    rdfs:label "National Establishment"@en ;
+    rdfs:label "Estabelecimento Nacional"@pt ;
+    :isSemanticAspectOf :AnglicanChurch .
+
+:EstablishedChurch rdf:type :SemanticAspect ;
+    rdfs:label "Established Church"@en ;
+    rdfs:label "Igreja Estabelecida"@pt ;
+    :isSemanticAspectOf :AnglicanChurch .

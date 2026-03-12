@@ -1,0 +1,6 @@
+langchain_google_genai==4.2.1
+langgraph==1.0.10
+nltk==3.9.3
+python-dotenv==1.2.2
+PyYAML==6.0.3
+rdflib==7.6.0

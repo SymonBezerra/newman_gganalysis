@@ -1,0 +1,1458 @@
+<text>
+    <source>['{1} THERE are those, my brethren, who may think it strange, and even shocking, that,
+        at this moment, when the liberalism of the age, after many previous attempts, is apparently
+        at length about to get possession of the Church and Universities of the nation, any one like
+        myself, who is a zealous upholder of the dogmatic principle in all its bearings, should be
+        doing what little in him lies to weaken, even indirectly, Institutions which, with whatever
+        shortcomings or errors, are the only political bulwarks of that principle left to us by the
+        changes of the sixteenth century.', 'For to help forward members of the Established Church
+        towards the Catholic Religion, as I propose to do in these Lectures, what is this but, so
+        far, to co-operate with a levelling party, who are the enemies of God, and truth, {2} and
+        virtue?', 'The Institutions in question, it may be said, uphold what is right and what is
+        holy as far as they go, and, moreover, the duty of upholding it; they do not in their
+        genuine workings harm the Church; they do but oppose themselves to sectarianism,
+        free-thinking, infidelity, and lawlessness.', 'They are her natural, though they may be her
+        covert, allies; they are the faithful nurses and conservators of her spirit; they are glad,
+        and proud, as far as they are allowed to do so, to throw her mantle over themselves, and
+        they do her homage by attempting a mimic Catholicism.', 'They have preserved through bad
+        times our old churches, our forms, our rites, our customs, in a measure, our Creed; they are
+        taunted by our enemies for their Catholic or Papistical tendency; and many of those who are
+        submitted to their teaching, look wistfully to us, in their forlorn struggle with those
+        enemies of ours, for encouragement and sympathy.']</source>
+    <entities>['Those', 'MyBrethren', 'ThisMoment', 'TheLiberalismOfTheAge', 'PreviousAttempts',
+        'PossessionOfTheChurchAndUniversitiesOfTheNation', 'AnyOne', 'Myself', 'ZealousUpholder',
+        'DogmaticPrinciple', 'UpholderOfTheDogmaticPrinciple', 'WhatLittle', 'Institutions',
+        'Shortcomings', 'Errors', 'PoliticalBulwarks', 'ThatPrinciple',
+        'TheChangesOfTheSixteenthCentury', 'SixteenthCentury', 'MembersOfTheEstablishedChurch',
+        'EstablishedChurch', 'CatholicReligion', 'TheseLectures', 'LevellingParty',
+        'GodAndTruthAndVirtue', 'Enemies', 'WhatIsRight', 'WhatIsHoly', 'Duty', 'UpholdingIt',
+        'GenuineWorkings', 'Church', 'SectarianismFreeThinkingInfidelityAndLawlessness',
+        'NaturalAllies', 'CovertAllies', 'FaithfulNurses', 'Conservators', 'HerSpirit', 'HerMantle',
+        'MimicCatholicism', 'BadTimes', 'OldChurches', 'OurForms', 'OurRites', 'OurCustoms',
+        'AMeasure', 'OurCreed', 'OurEnemies', 'CatholicTendency', 'PapisticalTendency', 'Many',
+        'Those', 'TheirTeaching', 'ForlornStruggle', 'Enemies', 'Ours', 'ThoseEnemies',
+        'Encouragement', 'Sympathy']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#EstablishedChurch', 'label_en': 'Established Church', 'label_pt':
+        'Igreja Estabelecida'}]</query>
+    <target>H
+        á aqueles, meus irmãos, que podem achar estranho, e até chocante, que, neste momento, quando
+        o liberalismo da época, após muitas tentativas anteriores, está aparentemente prestes a
+        tomar posse da Igreja e das Universidades da nação, alguém como eu, que é um zeloso defensor
+        do princípio dogmático em todas as suas vertentes, esteja fazendo o pouco que lhe cabe para
+        enfraquecer, mesmo indiretamente, Instituições que, com quaisquer falhas ou erros, são os
+        únicos baluartes políticos desse princípio que nos foram deixados pelas mudanças do século
+        XVI. Pois, ajudar membros da Igreja Estabelecida a avançar em direção à Religião Católica,
+        como proponho fazer nestas Conferências, o que é isso senão, até agora, cooperar com um
+        partido nivelador, que são inimigos de Deus, e da verdade, e da virtude? As Instituições em
+        questão, pode-se dizer, defendem o que é certo e o que é sagrado na medida em que o fazem,
+        e, além disso, o dever de defendê-lo; elas não prejudicam a Igreja em suas operações
+        genuínas; elas apenas se opõem ao sectarismo, ao livre-pensamento, à infidelidade e à
+        anarquia. Elas são suas aliadas naturais, embora possam ser suas aliadas secretas; são as
+        fiéis nutrizes e conservadoras de seu espírito; ficam felizes e orgulhosas, na medida em que
+        lhes é permitido, de lançar seu manto sobre si mesmas, e prestam-lhe homenagem ao tentar um
+        catolicismo mímico. Elas preservaram, em tempos difíceis, nossas antigas igrejas, nossas
+        formas, nossos ritos, nossos costumes e, em certa medida, nosso Credo; são ridicularizadas
+        por nossos inimigos por sua tendência católica ou papista; e muitos daqueles que estão
+        submetidos ao seu ensino, olham com anseio para nós, em sua luta desolada contra esses
+        nossos inimigos, em busca de encorajamento e simpatia.</target>
+    <source>['Certainly, reviewing the history of the last three centuries, we cannot deny that
+        those Institutions have uniformly repressed the extravagance, and diluted the virulence, of
+        Protestantism.', 'To the divines, to whom they have given birth, our country is indebted for
+        Apologies in behalf of various of the great doctrines of the faith: to Bull for a defence of
+        the Creed of Nicæa, nay, in a measure, of the true doctrine of justification, which the most
+        accomplished Catholic theologians of this day, as well as of his own, treat with great
+        consideration; to {3} Pearson for a powerful argument in behalf of the Apostolical origin of
+        Episcopacy; to Wall for a proof of the primitive use of Infant Baptism; to Hooker for a
+        vindication of the great principle of religious order and worship; to Butler for a profound
+        investigation into the connection of natural with revealed religion; to Paley and others for
+        a series of elaborate evidences of the divinity of Christianity.', 'It is cruel, it is
+        impolitic, to cast off, if not altogether friends, yet at least those who are not our worst
+        foes; nor can we afford to do so.', 'If they usurp our name, yet they proclaim it in the
+        ears of heretics all about; they have kept much error out of the country, if they have let
+        much in; and if Neo-Platonism, though false, is more honourable than the philosophy of the
+        academy or of the garden, by the same rule, surely, we ought, in comparison with other
+        sects, to give our countenance to the Anglican Church to compassionate her in her hour of
+        peril, "and spare the meek usurper\'s hoary head."', 'Well, and I do not know what natural
+        inducement there is to urge me to be harsh with her in this her hour: I have only pleasant
+        associations of those many years when I was within her pale; I have no theory to put
+        forward, nor position to maintain; and I am come to a time of life, when men desire to be
+        quiet and at peace;—moreover, I am in a communion which satisfies its members, and draws
+        them into itself, and, by the objects which it presents to faith, and the influences {4}
+        which it exerts over the heart, leads them to forget the external world, and look forward
+        more steadily to the future.']</source>
+    <entities>['History', 'Centuries', 'ThreeCenturies', 'Institutions', 'ThoseInstitutions',
+        'Extravagance', 'Virulence', 'ExtravaganceAndVirulence', 'Protestantism', 'Divines',
+        'Country', 'Apologies', 'Behalf', 'Doctrines', 'GreatDoctrines', 'Faith', 'Bull', 'Defence',
+        'Creed', 'Nicæa', 'Measure', 'Doctrine', 'TrueDoctrine', 'Justification', 'Theologians',
+        'CatholicTheologians', 'Day', 'ThisDay', 'Own', 'Consideration', 'GreatConsideration',
+        'Pearson', 'Argument', 'PowerfulArgument', 'Origin', 'ApostolicalOrigin', 'Episcopacy',
+        'Wall', 'Proof', 'Use', 'PrimitiveUse', 'InfantBaptism', 'Hooker', 'Vindication',
+        'Principle', 'GreatPrinciple', 'Order', 'ReligiousOrder', 'Worship', 'OrderAndWorship',
+        'Butler', 'Investigation', 'ProfoundInvestigation', 'Connection', 'Religion',
+        'NaturalReligion', 'RevealedReligion', 'Paley', 'Others', 'PaleyAndOthers', 'Series',
+        'Evidences', 'ElaborateEvidences', 'Divinity', 'Christianity', 'Friends', 'Foes',
+        'WorstFoes', 'Name', 'Ears', 'Heretics', 'Error', 'NeoPlatonism', 'Philosophy', 'Academy',
+        'PhilosophyOfTheAcademy', 'Garden', 'PhilosophyOfTheGarden', 'Rule', 'SameRule',
+        'Comparison', 'Sects', 'OtherSects', 'Countenance', 'Church', 'AnglicanChurch', 'Hour',
+        'Peril', 'Head', 'HoaryHead', 'Inducement', 'NaturalInducement', 'Associations',
+        'PleasantAssociations', 'Years', 'ManyYears', 'Pale', 'Theory', 'Position',
+        'TheoryAndPosition', 'Time', 'Life', 'Men', 'Peace', 'Communion', 'Members', 'Objects',
+        'Influences', 'Heart', 'World', 'ExternalWorld', 'Future']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}, {'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#NationalEstablishment', 'label_en': 'National Establishment',
+        'label_pt': 'Estabelecimento Nacional'}, {'concept':
+        'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#EstablishedChurch', 'label_en': 'Established Church', 'label_pt':
+        'Igreja Estabelecida'}]</query>
+    <target>Certamente, revisando a história dos últimos três séculos, não podemos negar que aquelas
+        Instituições uniformemente reprimiram a extravagância e diluíram a virulência do
+        Protestantismo. Aos teólogos a quem deram origem, nosso país é devedor por Apologias em
+        defesa de várias das grandes doutrinas da fé: a Bull por uma defesa do Credo de Niceia, e
+        até, em certa medida, da verdadeira doutrina da justificação, que os mais talentosos
+        teólogos católicos de hoje, assim como os de sua época, tratam com grande consideração; a
+        Pearson por um poderoso argumento em defesa da origem Apostólica do Episcopado; a Wall por
+        uma prova do uso primitivo do Batismo Infantil; a Hooker por uma vindicação do grande
+        princípio da ordem e culto religiosos; a Butler por uma investigação profunda sobre a
+        conexão da religião natural com a revelada; a Paley e outros por uma série de elaboradas
+        evidências da divindade do Cristianismo. É cruel, é impolítico, rejeitar, se não
+        completamente amigos, pelo menos aqueles que não são nossos piores inimigos; nem podemos nos
+        dar ao luxo de fazê-lo. Se eles usurpam nosso nome, ainda assim o proclamam aos ouvidos dos
+        heréticos por toda parte; eles mantiveram muito erro fora do país, embora tenham permitido
+        que muito entrasse; e se o Neoplatonismo, embora falso, é mais honrável do que a filosofia
+        da academia ou do jardim, pela mesma regra, certamente, devemos, em comparação com outras
+        seitas, dar nosso apoio à Igreja Anglicana, para compadecer-nos dela em sua hora de perigo,
+        "e poupar a cabeça grisalha do manso usurpador." Bem, e não sei que indução natural há para
+        me impelir a ser áspero com ela nesta sua hora: só tenho associações agradáveis daqueles
+        muitos anos em que estive dentro de sua esfera; não tenho teoria a apresentar, nem posição a
+        manter; e cheguei a uma época da vida em que os homens desejam estar quietos e em paz; —
+        além disso, estou em uma comunhão que satisfaz seus membros, e os atrai para si, e, pelos
+        objetos que apresenta à fé, e pelas influências que exerce sobre o coração, os leva a
+        esquecer o mundo externo e a olhar mais firmemente para o futuro.</target>
+    <source>['No, my dear brethren, there is but one thing that forces me to speak,—and it is my
+        intimate sense that the Catholic Church is the one ark of salvation, and my love for your
+        souls; it is my fear lest you ought to submit yourselves to her, and do not; my fear lest I
+        may perchance be able to persuade you, and not use my talent.', 'It will be a miserable
+        thing for you and for me, if I had been instrumental in bringing you but half-way, if I have
+        cooperated in removing your invincible ignorance, but am able to do no more.', 'It is this
+        keen feeling that my life is wearing away, which overcomes the lassitude which possesses me,
+        and scatters the excuses which I might plausibly urge to myself for not meddling with what I
+        have left for ever, which subdues the recollection of past times, and which makes me do my
+        best, with whatever success, to bring you to land from off your wreck, who have thrown
+        yourselves from it upon the waves, or are clinging to its rigging, or are sitting in
+        heaviness and despair upon its side.', 'For this is the truth: the Establishment, whatever
+        it be in the eyes of men, whatever its temporal greatness and its secular prospects, in the
+        eyes of faith is a mere wreck.', 'We must not indulge our imagination, we must not dream: we
+        must look at things as they are; we must not confound the past with the present, or what is
+        substantive with what is {5} the accident of a period.']</source>
+    <entities>['Brethren', 'DearBrethren', 'Thing', 'OneThing', 'Me', 'Sense', 'IntimateSense',
+        'Church', 'CatholicChurch', 'Ark', 'OneArk', 'Salvation', 'Love', 'Souls', 'Fear', 'You',
+        'Talent', 'MiserableThing', 'HalfWay', 'Ignorance', 'InvincibleIgnorance', 'Feeling',
+        'KeenFeeling', 'Life', 'Lassitude', 'Excuses', 'Myself', 'Recollection', 'Times',
+        'PastTimes', 'Best', 'Success', 'Land', 'Wreck', 'Yourselves', 'Waves', 'Rigging',
+        'Heaviness', 'Despair', 'Side', 'Truth', 'Establishment', 'Eyes', 'Men', 'Greatness',
+        'TemporalGreatness', 'Prospects', 'SecularProspects', 'Faith', 'Imagination', 'Things',
+        'Past', 'Present', 'Substantive', 'Accident', 'Period', 'YouAndMe', 'HeavinessAndDespair',
+        'TemporalGreatnessAndSecularProspects']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Não, meus queridos irmãos, há apenas uma coisa que me força a falar,—e é o meu
+        sentimento íntimo de que a Igreja Católica é a única arca da salvação, e o meu amor pelas
+        vossas almas; é o meu receio de que devais submeter-vos a ela, e não o façais; o meu receio
+        de que eu possa, porventura, ser capaz de vos persuadir, e não use o meu talento. Será uma
+        coisa miserável para vós e para mim, se eu tiver sido instrumental em vos trazer apenas a
+        meio caminho, se eu tiver cooperado na remoção da vossa ignorância invencível, mas não puder
+        fazer mais. É este sentimento profundo de que a minha vida se está a esvair, que supera a
+        lassidão que me possui, e dispersa as desculpas que eu poderia plausivelmente apresentar a
+        mim mesmo por não me intrometer no que deixei para sempre, que subjuga a recordação dos
+        tempos passados, e que me faz dar o meu melhor, com o sucesso que for, para vos trazer a
+        terra do vosso naufrágio, vós que vos lançastes dele sobre as ondas, ou que vos agarrais à
+        sua mastreação, ou que estais sentados em peso e desespero ao seu lado. Pois esta é a
+        verdade: o Estabelecimento, seja o que for aos olhos dos homens, qualquer que seja a sua
+        grandeza temporal e as suas perspetivas seculares, aos olhos da fé é um mero naufrágio. Não
+        devemos ceder à nossa imaginação, não devemos sonhar: devemos olhar para as coisas como elas
+        são; não devemos confundir o passado com o presente, ou o que é substantivo com o que é o
+        acidente de um período.</target>
+    <source>['Ridding our minds of these illusions, we shall see that the Established Church has no
+        claims whatever on us, whether in memory or in hope; that they only have claims upon our
+        commiseration and our charity whom she holds in bondage, separated from that faith and that
+        Church in which alone is salvation.', 'If I can do aught towards breaking their chains, and
+        bringing them into the Truth, it will be an act of love towards their souls, and of piety
+        towards God.', 'I have said, we must not indulge our imagination in the view we take of the
+        National Establishment.', 'If, indeed, we dress it up in an ideal form, as if it were
+        something real, with an independent and a continuous existence, and a proper history, as if
+        it were in deed and not only in name a Church, then indeed we may feel interest in it, and
+        reverence towards it, and affection for it, as men have fallen in love with pictures, or
+        knights in romance do battle for high dames whom they have never seen.', 'Thus it is that
+        students of the Fathers, antiquaries, and poets, begin by assuming that the body to which
+        they belong is that of which they read in times past, and then proceed to decorate it with
+        that majesty and beauty of which history tells, or which their genius creates.']</source>
+    <entities>['Act', 'Affection', 'Antiquaries', 'AntiquariesAndPoets', 'Aught', 'Beauty', 'Body',
+        'Bondage', 'Chains', 'Charity', 'Church', 'Claims', 'Commiseration',
+        'CommiserationAndCharity', 'ContinuousExistence', 'Dames', 'Deed', 'EstablishedChurch',
+        'Establishment', 'Existence', 'Faith', 'FaithAndChurch', 'Fathers', 'Form', 'Genius', 'God',
+        'HighDames', 'History', 'Hope', 'IdealForm', 'Illusions', 'Imagination',
+        'IndependentExistence', 'Interest', 'Knights', 'Love', 'Majesty', 'MajestyAndBeauty', 'Men',
+        'Memory', 'Minds', 'Name', 'NationalEstablishment', 'Pictures', 'Piety', 'Poets',
+        'ProperHistory', 'Reverence', 'Romance', 'Salvation', 'Something', 'Souls', 'Students',
+        'StudentsOfTheFathers', 'TheseIllusions', 'Times', 'Truth', 'View']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}, {'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#NationalEstablishment', 'label_en': 'National Establishment',
+        'label_pt': 'Estabelecimento Nacional'}, {'concept':
+        'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#EstablishedChurch', 'label_en': 'Established Church', 'label_pt':
+        'Igreja Estabelecida'}]</query>
+    <target>Livrando nossas mentes dessas ilusões, veremos que a Igreja Estabelecida não tem nenhuma
+        reivindicação sobre nós, seja na memória ou na esperança; que somente aqueles a quem ela
+        mantém em cativeiro, separados daquela fé e daquela Igreja na qual somente há salvação, têm
+        reivindicações sobre nossa compaixão e nossa caridade. Se eu puder fazer algo para quebrar
+        suas correntes e trazê-los para a Verdade, será um ato de amor para com suas almas e de
+        piedade para com Deus. Eu disse, não devemos entregar nossa imaginação na visão que temos do
+        Estabelecimento Nacional. Se, de fato, a vestimos de forma ideal, como se fosse algo real,
+        com uma existência independente e contínua, e uma história própria, como se fosse de fato e
+        não apenas de nome uma Igreja, então de fato podemos sentir interesse nela, e reverência por
+        ela, e afeição por ela, como homens que se apaixonaram por quadros, ou cavaleiros em
+        romances que lutam por damas nobres que nunca viram. Assim é que estudantes dos Padres,
+        antiquários e poetas, começam por assumir que o corpo a que pertencem é aquele de que leem
+        em tempos passados, e então procedem a decorá-lo com aquela majestade e beleza de que a
+        história fala, ou que seu gênio cria.</target>
+    <source>['Nor is it by an easy process or a light effort that their minds are disabused of this
+        error.', 'It is an error for many reasons too dear to {6} them to be readily relinquished.',
+        'But at length, either the force of circumstances or some unexpected accident dissipates it;
+        and, as in fairy tales, the magic castle vanishes when the spell is broken, and nothing is
+        seen but the wild heath, the barren rock, and the forlorn sheep-walk, so is it with us as
+        regards the Church of England, when we look in amazement on that we thought so unearthly,
+        and find so commonplace or worthless.', 'Then we perceive, that aforetime we have not been
+        guided by reason, but biassed by education and swayed by affection.', 'We see in the English
+        Church, I will not merely say no descent from the first ages, and no relationship to the
+        Church in other lands, but we see no body politic of any kind; we see nothing more or less
+        than an Establishment, a department of Government, or a function or operation of the
+        State,—without a substance,—a mere collection of officials, depending on and living in the
+        supreme civil power.']</source>
+    <entities>['Process', 'Effort', 'Minds', 'Error', 'Reasons', 'Length', 'Force', 'Circumstances',
+        'Spell', 'Nothing', 'Us', 'Church', 'England', 'Amazement', 'That', 'Commonplace',
+        'Worthless', 'Reason', 'Education', 'Affection', 'Descent', 'Relationship', 'BodyPolitic',
+        'Establishment', 'Department', 'Government', 'Function', 'Operation', 'State', 'Substance',
+        'Collection', 'Officials', 'Power', 'EasyProcess', 'LightEffort', 'UnexpectedAccident',
+        'FairyTales', 'MagicCastle', 'WildHeath', 'BarrenRock', 'ForlornSheepWalk', 'FirstAges',
+        'EnglishChurch', 'OtherLands', 'MereCollection', 'CivilPower', 'OperationOfTheState',
+        'DescentAndRelationship', 'HeathAndRock', 'RockAndSheepWalk', 'HeathAndRockAndSheepWalk']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Nem é por um processo fácil ou um esforço leve que as suas mentes são desenganadas deste
+        erro. É um erro, por muitas razões demasiado caras para {6} eles, para ser facilmente
+        abandonado. Mas, por fim, ou a força das circunstâncias ou algum acidente inesperado o
+        dissipa; e, como nos contos de fadas, o castelo mágico desaparece quando o feitiço é
+        quebrado, e nada se vê senão a charneca selvagem, a rocha estéril e o caminho solitário das
+        ovelhas, assim acontece connosco em relação à Igreja de Inglaterra, quando olhamos com
+        espanto para aquilo que pensávamos ser tão etéreo, e o encontramos tão comum ou sem valor.
+        Então percebemos que, outrora, não fomos guiados pela razão, mas influenciados pela educação
+        e movidos pelo afeto. Vemos na Igreja Inglesa, não direi apenas nenhuma descendência das
+        primeiras eras e nenhuma relação com a Igreja em outras terras, mas não vemos nenhum corpo
+        político de qualquer tipo; não vemos nada mais nem menos do que um Estabelecimento, um
+        departamento do Governo, ou uma função ou operação do Estado — sem substância — uma mera
+        coleção de funcionários, dependendo e vivendo no poder civil supremo.</target>
+    <source>['Its unity and personality are gone, and with them its power of exciting feelings of
+        any kind.', 'It is easier to love or hate an abstraction, than so commonplace a framework or
+        mechanism.', 'We regard it neither with anger, nor with aversion, nor with contempt, any
+        more than with respect or interest.', 'It is but one aspect of the State, or mode of civil
+        governance; it is responsible for nothing; it can appropriate neither praise nor blame; but,
+        whatever feeling it raises is to be referred on, by the nature of the case, to the Supreme
+        Power {7} whom it represents, and whose will is its breath.', 'And hence it has no real
+        identity of existence in distinct periods, unless the present Legislature or the present
+        Court can affect to be the offspring and disciple of its predecessor.']</source>
+    <entities>['Unity', 'Personality', 'UnityAndPersonality', 'Power', 'ExcitingFeelings', 'Kind',
+        'Abstraction', 'CommonplaceFramework', 'Mechanism', 'Anger', 'Aversion', 'Contempt',
+        'Respect', 'Interest', 'Aspect', 'State', 'AspectOfTheState', 'Mode', 'CivilGovernance',
+        'Nothing', 'Praise', 'Blame', 'Feeling', 'Nature', 'Case', 'NatureOfTheCase',
+        'SupremePower', 'Will', 'Breath', 'Identity', 'Existence', 'DistinctPeriods',
+        'PresentLegislature', 'PresentCourt', 'Offspring', 'Disciple', 'OffspringAndDisciple',
+        'Predecessor']</entities>
+    <query>[]</query>
+    <target>Sua unidade e personalidade desapareceram, e com elas seu poder de despertar sentimentos
+        de qualquer tipo. É mais fácil amar ou odiar uma abstração do que uma estrutura ou mecanismo
+        tão comum. Nós o consideramos nem com raiva, nem com aversão, nem com desprezo, assim como
+        não o consideramos com respeito ou interesse. É apenas um aspecto do Estado, ou modo de
+        governança civil; não é responsável por nada; não pode apropriar-se nem de louvor nem de
+        culpa; mas, qualquer sentimento que suscite deve ser referido, pela natureza do caso, ao
+        Poder Supremo {7} que representa, e cuja vontade é seu alento. E, portanto, não possui
+        identidade real de existência em períodos distintos, a menos que a atual Legislatura ou o
+        atual Tribunal possam fingir ser a prole e o discípulo de seu predecessor.</target>
+    <source>['Nor can it in consequence be said to have any antecedents, or any future; or to live,
+        except in the passing moment.', 'As a thing without a soul, it does not contemplate itself,
+        define its intrinsic constitution, or ascertain its position.', 'It has no traditions; it
+        cannot be said to think; it does not know what it holds, and what it does not [Note 1]; it
+        is not even conscious of its own existence.', 'It has no love for its members, or what are
+        sometimes called its children, nor any instinct whatever, unless attachment to its master,
+        or love of its place, may be so called.', 'Its fruits, as far as they are good, are to be
+        made much of, as long as they last, for they are transient, and without succession; its
+        former champions of orthodoxy are no earnest of orthodoxy now; they died, and there was no
+        reason why they should be reproduced.']</source>
+    <entities>['Antecedents', 'Future', 'PassingMoment', 'Thing', 'Soul', 'IntrinsicConstitution',
+        'Position', 'Traditions', 'Existence', 'Love', 'Members', 'Children', 'Instinct',
+        'Attachment', 'Master', 'Place', 'Fruits', 'Succession', 'FormerChampions', 'Orthodoxy',
+        'Earnest', 'Orthodoxy', 'Reason']</entities>
+    <query>[]</query>
+    <target>Nem se pode, em consequência, dizer que tenha quaisquer antecedentes, ou qualquer
+        futuro; ou que viva, exceto no momento passageiro. Como uma coisa sem alma, não se
+        contempla, nem define a sua constituição intrínseca, nem averigua a sua posição. Não tem
+        tradições; não se pode dizer que pense; não sabe o que detém e o que não detém; nem sequer
+        está consciente da sua própria existência. Não tem amor pelos seus membros, ou pelo que às
+        vezes são chamados os seus filhos, nem qualquer instinto, a menos que o apego ao seu mestre,
+        ou o amor pelo seu lugar, possam ser assim chamados. Os seus frutos, na medida em que são
+        bons, devem ser muito valorizados enquanto durarem, pois são transitórios e sem sucessão; os
+        seus antigos campeões da ortodoxia não são garantia de ortodoxia agora; morreram, e não
+        havia razão para que fossem reproduzidos.</target>
+    <source>['Bishop is not like bishop, {8} more than king is like king, or ministry like ministry;
+        its Prayer-Book is an Act of Parliament of two centuries ago, and its cathedrals and its
+        chapter-houses are the spoils of Catholicism.', 'I have said all this, my brethren, not in
+        declamation, but to bring out clearly to you, why I cannot feel interest of any kind in the
+        National Church, nor put any trust in it at all from its past history, as if it were, in
+        however narrow a sense, a guardian of orthodoxy.', "It is as little bound by what it said or
+        did formerly, as this morning's newspaper by its former numbers, except as it is bound by
+        the Law; and while it is upheld by the Law, it will not be weakened by the subtraction of
+        individuals, nor fortified by their continuance.", 'Its life is an Act of Parliament.', 'It
+        will not be able to resist the Arian, Sabellian, or Unitarian heresies now, because Bull or
+        Waterland resisted them a century or two before; nor on the other hand would it be unable to
+        resist them, though its more orthodox theologians were presently to leave it.']</source>
+    <entities>['Bishop', 'Bishop', 'King', 'Ministry', 'PrayerBook', 'Act', 'Parliament',
+        'Centuries', 'Cathedrals', 'ChapterHouses', 'CathedralsAndChapterHouses', 'Spoils',
+        'Catholicism', 'Brethren', 'Declamation', 'Interest', 'Kind', 'NationalChurch', 'Trust',
+        'History', 'Sense', 'Guardian', 'Orthodoxy', 'Newspaper', 'Numbers', 'Law', 'Subtraction',
+        'Individuals', 'Continuance', 'Life', 'ArianHeresies', 'SabellianHeresies',
+        'UnitarianHeresies', 'Bull', 'Waterland', 'Century', 'Hand', 'OrthodoxTheologians']</entities>
+    <query>[]</query>
+    <target>Bispo não é como bispo, {8} mais do que rei é como rei, ou ministério como ministério; o
+        seu Livro de Orações é um Ato do Parlamento de dois séculos atrás, e as suas catedrais e as
+        suas casas capitulares são os despojos do Catolicismo. Disse tudo isto, meus irmãos, não em
+        declamação, mas para vos mostrar claramente por que não consigo sentir qualquer tipo de
+        interesse na Igreja Nacional, nem depositar qualquer confiança nela, de forma alguma, a
+        partir da sua história passada, como se fosse, por mais restrito que seja o sentido, uma
+        guardiã da ortodoxia. Ela está tão pouco vinculada ao que disse ou fez anteriormente, como o
+        jornal desta manhã pelos seus números anteriores, exceto na medida em que está vinculada
+        pela Lei; e enquanto for sustentada pela Lei, não será enfraquecida pela subtração de
+        indivíduos, nem fortificada pela sua permanência. A sua vida é um Ato do Parlamento. Não
+        será capaz de resistir às heresias Arianas, Sabelianas ou Unitárias agora, porque Bull ou
+        Waterland as resistiram um século ou dois antes; nem, por outro lado, seria incapaz de as
+        resistir, embora os seus teólogos mais ortodoxos a deixassem em breve.</target>
+    <source>['It will be able to resist them while the State gives the word; it would be unable,
+        when the State forbids it.', 'Elizabeth boasted that she "tuned her pulpits;" Charles
+        forbade discussions on predestination; George on the Holy Trinity; Victoria allows
+        differences on Holy Baptism.', 'While the nation wishes an Establishment, it will remain,
+        whatever individuals are for it or against it; and that which determines its existence will
+        determine its voice.', 'Of course {9} the presence or departure of individuals will be one
+        out of various disturbing causes, which may delay or accelerate by a certain number of years
+        a change in its teaching: but, after all, the change itself depends on events broader and
+        deeper than these; it depends on changes in the nation.', 'As the nation changes its
+        political, so may it change its religious views; the causes which carried the Reform Bill
+        and Free Trade may make short work with orthodoxy.']</source>
+    <entities>['State', 'Word', 'Elizabeth', 'Pulpits', 'Charles', 'Discussions', 'Predestination',
+        'George', 'HolyTrinity', 'Victoria', 'Differences', 'HolyBaptism', 'Nation',
+        'Establishment', 'Individuals', 'Existence', 'Voice', 'Presence', 'Departure',
+        'DisturbingCauses', 'Causes', 'Number', 'Years', 'Change', 'Teaching', 'Events', 'Changes',
+        'Political', 'ReligiousViews', 'ReformBill', 'FreeTrade', 'Orthodoxy']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Será capaz de resistir a eles enquanto o Estado der a palavra; seria incapaz, quando o
+        Estado o proibisse. Elizabeth gabava-se de que "afinava os seus púlpitos"; Carlos proibia
+        discussões sobre a predestinação; Jorge sobre a Santíssima Trindade; Victoria permite
+        diferenças sobre o Santo Batismo. Enquanto a nação desejar um Estabelecimento, ele
+        permanecerá, independentemente de os indivíduos serem a favor ou contra; e aquilo que
+        determina a sua existência determinará a sua voz. É claro que a presença ou a partida de
+        indivíduos será uma das várias causas perturbadoras, que podem atrasar ou acelerar em um
+        certo número de anos uma mudança em seu ensino: mas, afinal, a própria mudança depende de
+        eventos mais amplos e profundos do que estes; depende de mudanças na nação. Assim como a
+        nação muda as suas opiniões políticas, assim também pode mudar as suas opiniões religiosas;
+        as causas que levaram à Lei da Reforma e ao Livre Comércio podem acabar rapidamente com a
+        ortodoxia.</target>
+    <source>['The most simple proof of the truth of this assertion will be found in considering what
+        and how much has been hitherto done by the ecclesiastical movement of 1833, towards
+        heightening the tone of the Established Church—by a movement extending over seventeen years
+        and more, and carried on with great energy, and (as far as concerns its influence over
+        individuals) with surprising success.', 'Opinions which, twenty years ago, were not held by
+        any but Catholics, or at most only in fragmentary portions by isolated persons, are now the
+        profession of thousands.', 'Such success ought to have acted on the Establishment itself;
+        has it done so?', 'or rather, is not that success simply and only in expectation and in
+        hope, like the conversion of heathen nations by the various Evangelical societies?', 'The
+        Fathers have catholicised the Protestant Church at home, pretty much as the Bible has
+        evangelised the Mahometan {10} or Hindoo religions abroad.']</source>
+    <entities>['SimpleProof', 'Assertion', 'EcclesiasticalMovement', 'Movement', '1833',
+        'ToneOfTheEstablishedChurch', 'EstablishedChurch', 'Movement', 'SeventeenYears',
+        'GreatEnergy', 'Influence', 'Individuals', 'SurprisingSuccess', 'Opinions', 'TwentyYears',
+        'Catholics', 'FragmentaryPortions', 'IsolatedPersons', 'Profession', 'Thousands', 'Success',
+        'Establishment', 'ExpectationAndHope', 'Hope', 'ConversionOfHeathenNations',
+        'HeathenNations', 'EvangelicalSocieties', 'Fathers', 'ProtestantChurch', 'Bible',
+        'MahometanReligions', 'HindooReligions']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}, {'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#EstablishedChurch', 'label_en': 'Established Church', 'label_pt':
+        'Igreja Estabelecida'}]</query>
+    <target>A prova mais simples da verdade desta afirmação será encontrada ao considerar o que e o
+        quanto tem sido feito até agora pelo movimento eclesiástico de 1833, para elevar o tom da
+        Igreja Estabelecida—por um movimento que se estende por dezessete anos e mais, e levado a
+        cabo com grande energia, e (no que diz respeito à sua influência sobre os indivíduos) com
+        sucesso surpreendente. Opiniões que, vinte anos atrás, não eram sustentadas por ninguém
+        senão por católicos, ou, no máximo, apenas em porções fragmentadas por pessoas isoladas, são
+        agora a profissão de milhares. Tal sucesso deveria ter agido sobre o próprio
+        Estabelecimento; terá agido? ou, antes, não está esse sucesso simples e unicamente na
+        expectativa e na esperança, como a conversão de nações pagãs pelas várias sociedades
+        Evangélicas? Os Padres catolicizaram a Igreja Protestante em casa, praticamente como a
+        Bíblia evangelizou as religiões Maometana {10} ou Hindu no exterior.</target>
+    <source>['There have been recurring vaticinations and promises of good; but little or no actual
+        fulfilment.', 'Look back year after year, count up the exploits of the movement party, and
+        consider whether it has had any effect at all on the religious judgment of the nation, as
+        represented by the Establishment.', 'The more certain and formidable is the growth of its
+        adherents and well-wishers, so much the more pregnant a fact is it, that the Establishment
+        has steadily gone on its own way, eating, drinking, sleeping, and working, fulfilling its
+        nature and its destiny, as if that movement had not been; or at least with no greater
+        consciousness of its presence, than any internal disarrangement or disorder creates in a man
+        who has a work to do, and is busy at it.', "The movement, I say, has formed but a party
+        after all, and the Church of the nation has pursued the nation's objects, and executed the
+        nation's will, in spite of it.", 'The movement could not prevent the Ecclesiastical
+        Commission, nor the Episcopal mismanagement of it.']</source>
+    <entities>['RecurringVaticinations', 'Vaticinations', 'Promises', 'Good',
+        'VaticinationsAndPromises', 'ActualFulfilment', 'Fulfilment', 'Year',
+        'ExploitsOfTheMovementParty', 'Exploits', 'MovementParty', 'Movement', 'Party',
+        'ReligiousJudgmentOfTheNation', 'ReligiousJudgment', 'Judgment', 'Nation', 'Establishment',
+        'Growth', 'AdherentsAndWellWishers', 'Adherents', 'WellWishers', 'PregnantFact', 'Fact',
+        'OwnWay', 'Way', 'NatureAndDestiny', 'Nature', 'Destiny', 'GreaterConsciousness',
+        'Consciousness', 'Presence', 'InternalDisarrangement', 'Disarrangement', 'Disorder', 'Man',
+        'Work', 'ChurchOfTheNation', 'Church', 'Objects', 'Will', 'EcclesiasticalCommission',
+        'Commission', 'EpiscopalMismanagement', 'Mismanagement', 'It']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Tem havido vaticinações e promessas de bem recorrentes; mas pouca ou nenhuma
+        concretização real. Olhe para trás ano após ano, enumere os feitos do partido do movimento,
+        e considere se teve algum efeito sobre o julgamento religioso da nação, tal como
+        representado pelo Estabelecimento. Quanto mais certo e formidável é o crescimento dos seus
+        aderentes e simpatizantes, tanto mais significativo é o facto de o Estabelecimento ter
+        seguido firmemente o seu próprio caminho, comendo, bebendo, dormindo e trabalhando,
+        cumprindo a sua natureza e o seu destino, como se esse movimento não tivesse existido; ou
+        pelo menos sem maior consciência da sua presença do que qualquer desarranjo ou desordem
+        interna cria num homem que tem um trabalho a fazer e está ocupado com ele. O movimento, digo
+        eu, formou afinal apenas um partido, e a Igreja da nação perseguiu os objetivos da nação, e
+        executou a vontade da nação, apesar dele. O movimento não pôde impedir a Comissão
+        Eclesiástica, nem a má gestão episcopal dela.</target>
+    <source>['Its zeal, principle, and clearness of view, backed by a union of parties, did not
+        prevent the royal appointment of a theological Professor, whose sentiments were the
+        expression of the national idea of religion.', 'Nor did its protest even succeed in
+        preventing his subsequent elevation to the Episcopal bench.', 'Nor did it succeed in
+        preventing the establishment of a sort of Anglo-Prussian, half-Episcopal, half-Lutheran See
+        at {11} Jerusalem; nor the selection of two individuals of heretical opinions to fill it in
+        succession.', 'Nor did it prevent the intrusion of the Establishment on the Maltese
+        territory; nor has it prevented the systematic promotion at home of men heterodox, or
+        fiercely latitudinarian, in their religious views, or professedly ignorant of theology, and
+        glorying in their ignorance.', 'Nor did the movement prevent the promotion of Bishops and
+        others who deny or explain away the grace of Baptism.']</source>
+    <entities>['Zeal', 'Principle', 'Clearness', 'PrincipleAndClearness',
+        'ZealAndPrincipleAndClearness', 'View', 'Union', 'Parties', 'RoyalAppointment',
+        'Appointment', 'TheologicalProfessor', 'Professor', 'Sentiments', 'Expression',
+        'NationalIdea', 'Idea', 'ExpressionOfTheNationalIdea', 'Religion', 'Protest',
+        'SubsequentElevation', 'Elevation', 'EpiscopalBench', 'Bench', 'Establishment', 'Sort',
+        'AngloPrussianSee', 'HalfEpiscopalSee', 'HalfLutheranSee', 'See', 'Jerusalem', 'Selection',
+        'Individuals', 'HereticalOpinions', 'Opinions', 'Succession', 'Intrusion', 'Establishment',
+        'IntrusionOfTheEstablishment', 'MalteseTerritory', 'Territory', 'SystematicPromotion',
+        'Promotion', 'Home', 'Men', 'ReligiousViews', 'Views', 'Theology', 'Ignorance', 'Movement',
+        'Bishops', 'Others', 'BishopsAndOthers', 'Grace', 'Baptism']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Seu zelo, princípio e clareza de visão, apoiados por uma união de partidos, não
+        impediram a nomeação real de um Professor de teologia, cujos sentimentos eram a expressão da
+        ideia nacional de religião. Nem o seu protesto conseguiu impedir a sua subsequente elevação
+        à bancada Episcopal. Nem conseguiu impedir o estabelecimento de uma espécie de Sé
+        anglo-prussiana, meio-episcopal, meio-luterana em {11} Jerusalém; nem a seleção de dois
+        indivíduos de opiniões heréticas para a preencherem em sucessão. Nem impediu a intrusão do
+        Estabelecimento no território maltês; nem impediu a promoção sistemática, em casa, de homens
+        heterodoxos, ou ferozmente latitudinários, nas suas visões religiosas, ou professadamente
+        ignorantes de teologia, e glorificando-se na sua ignorância. Nem o movimento impediu a
+        promoção de Bispos e outros que negam ou minimizam a graça do Batismo.</target>
+    <source>['Nor has it hindered the two Archbishops of England from concurring in the royal
+        decision, that within the national communion baptismal regeneration is an open question.',
+        'It has not heightened the theology of the Universities or of the Christian Knowledge
+        Society, nor afforded any defence in its hour of need to the National Society for
+        Education.', 'What has it done for the cause it undertook?', 'It has preserved the
+        Universities to the Established Church for fifteen years; perhaps it prevented certain
+        alterations in the Prayer-Book; it has secured at Oxford the continuance of the Oath of
+        Supremacy against Catholics for a like period; it has hindered the promotion of high-minded
+        liberals, like the late Dr. Arnold, at the price of the advancement of second-rate men who
+        have shared his opinions.', 'It has built Churches and Colleges, and endowed Sees, of which
+        its enemies in the Establishment have gladly taken or are taking possession; it has founded
+        sisterhoods or enforced {12} confessions, the fruits of which are yet to be seen.']</source>
+    <entities>['TwoArchbishops', 'England', 'RoyalDecision', 'NationalCommunion',
+        'BaptismalRegeneration', 'OpenQuestion', 'TheologyOfTheUniversities',
+        'ChristianKnowledgeSociety', 'TheologyOfTheChristianKnowledgeSociety', 'Defence', 'Hour',
+        'Need', 'NationalSocietyForEducation', 'Cause', 'Universities', 'EstablishedChurch',
+        'Years', 'CertainAlterations', 'PrayerBook', 'Oxford', 'Continuance', 'Oath', 'Supremacy',
+        'Catholics', 'Period', 'Promotion', 'HighMindedLiberals', 'LateDrArnold', 'Price',
+        'Advancement', 'SecondRateMen', 'Opinions', 'ChurchesAndColleges', 'Sees', 'Enemies',
+        'Establishment', 'Possession', 'Sisterhoods', 'EnforcedConfessions', 'Fruits']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}, {'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#EstablishedChurch', 'label_en': 'Established Church', 'label_pt':
+        'Igreja Estabelecida'}]</query>
+    <target>Nem impediu os dois Arcebispos de Inglaterra de concordarem com a decisão real, de que
+        dentro da comunhão nacional a regeneração batismal é uma questão aberta. Não elevou a
+        teologia das Universidades ou da Sociedade para a Promoção do Conhecimento Cristão, nem
+        ofereceu qualquer defesa na sua hora de necessidade à Sociedade Nacional para a Educação. O
+        que fez pela causa que empreendeu? Preservou as Universidades para a Igreja Estabelecida por
+        quinze anos; talvez tenha impedido certas alterações no Livro de Oração; assegurou em Oxford
+        a continuação do Juramento de Supremacia contra os Católicos por um período semelhante;
+        impediu a promoção de liberais de mente elevada, como o falecido Dr. Arnold, ao preço do
+        avanço de homens de segunda categoria que partilhavam as suas opiniões. Construiu Igrejas e
+        Colégios, e dotou Sedes Episcopais, das quais os seus inimigos no Estabelecimento tomaram ou
+        estão tomando posse de bom grado; fundou irmandades ou impôs {12} confissões, cujos frutos
+        ainda estão para ser vistos.</target>
+    <source>['On the other hand, it has given a hundred educated men to the Catholic Church; yet the
+        huge creature, from which they went forth, showed no consciousness of its loss, but shook
+        itself, and went about its work as of old time—as all parties, even the associates they had
+        left, united, and even glorified, in testifying.', 'And lastly, the present momentous event,
+        to which I have already alluded, bearing upon the doctrine of Baptism, which is creating
+        such disturbance in the country, has happened altogether independent of the movement, and is
+        unaffected by it.', 'Those persons who went forward to Catholicism have not caused it; those
+        who have stayed neither could prevent it, nor can remedy it.', 'It relates to a question
+        previous to any of those doctrines which it has been the main object of the movement to
+        maintain.', 'It is caused, rather it is willed, by the national mind; and, till the grace of
+        God touches and converts that mind, it will remain a fact done and over, a precedent and a
+        principle in the Establishment.']</source>
+    <entities>['OtherHand', 'Hand', 'EducatedMen', 'Men', 'CatholicChurch', 'Church',
+        'HugeCreature', 'Creature', 'Consciousness', 'Loss', 'Work', 'OldTime', 'Time', 'Parties',
+        'Associates', 'MomentousEvent', 'Event', 'Doctrine', 'Baptism', 'Disturbance', 'Country',
+        'Movement', 'Persons', 'Catholicism', 'Question', 'Doctrines', 'MainObject', 'Object',
+        'NationalMind', 'Mind', 'Grace', 'God', 'Fact', 'PrecedentAndPrinciple', 'Precedent',
+        'Principle', 'Establishment']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Por outro lado, ela deu cem homens instruídos à Igreja Católica; contudo, a enorme
+        criatura, da qual eles saíram, não mostrou consciência de sua perda, mas sacudiu-se e
+        continuou seu trabalho como outrora — como todas as partes, até mesmo os associados que
+        haviam deixado, se uniram e até glorificaram ao testemunhar. E, por último, o presente
+        evento momentous, ao qual já aludi, relacionado à doutrina do Batismo, que está a criar tal
+        perturbação no país, ocorreu completamente independente do movimento e não é afetado por
+        ele. Aqueles que se converteram ao Catolicismo não o causaram; aqueles que permaneceram nem
+        puderam preveni-lo, nem podem remediá-lo. Ele se relaciona com uma questão anterior a
+        qualquer uma daquelas doutrinas que tem sido o principal objetivo do movimento manter. É
+        causado, ou melhor, é desejado, pela mente nacional; e, até que a graça de Deus toque e
+        converta essa mente, permanecerá um fato consumado, um precedente e um princípio no
+        Estabelecimento.</target>
+    <source>['This is the true explanation of what is going on before our eyes, as seen whether in
+        the decision of the Privy Council, or in the respective conduct of the two parties in the
+        Establishment with relation to it.', 'It may seem strange, at first sight, that the
+        Evangelical section should presume so boldly to contravene the {13} distinct and categorical
+        teaching of the national formularies on the subject of Baptism; strange, till it is
+        understood that the interpreter of their sense is the Nation itself, and that that section
+        in the Establishment speaks with the confidence of men who know that they have the Nation on
+        their side.', 'Let me here refer to the just and manly admissions on this subject, of a
+        high-principled writer, which have lately been given to the public:—\n\n"There is" a
+        "consideration," he says, "which, for some time, has pressed heavily and painfully upon
+        me.', 'As a fact, the Evangelical party plainly, openly, and fully declare their opinions
+        upon the doctrines which they contend the Church of England holds; they tell their people
+        continually, what they ought, as a matter of duty towards God and towards themselves, both
+        to believe and practise.', 'Can it be pretended that we, as a party, anxious to teach the
+        truth, are equally open, plain, and unreserved?']</source>
+    <entities>['Explanation', 'TrueExplanation', 'Decision', 'PrivyCouncil',
+        'DecisionOfThePrivyCouncil', 'Conduct', 'RespectiveConduct', 'Parties', 'TwoParties',
+        'Establishment', 'Relation', 'Section', 'EvangelicalSection', 'Teaching',
+        'DistinctTeaching', 'CategoricalTeaching', 'Formularies', 'NationalFormularies',
+        'TeachingOfTheNationalFormularies', 'Subject', 'Baptism', 'Interpreter', 'Sense', 'Nation',
+        'Confidence', 'Men', 'Admissions', 'JustAdmissions', 'ManlyAdmissions', 'Writer',
+        'HighPrincipledWriter', 'Public', 'Consideration', 'Time', 'SomeTime', 'Fact', 'Party',
+        'EvangelicalParty', 'Opinions', 'Doctrines', 'Church', 'England', 'People', 'Matter',
+        'Duty', 'God', 'Truth']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Esta é a verdadeira explicação do que está a acontecer diante dos nossos olhos, seja na
+        decisão do Conselho Privado, seja na conduta respetiva das duas partes no Estabelecimento em
+        relação a isso. Pode parecer estranho, à primeira vista, que a secção Evangélica presuma tão
+        audaciosamente contrapor-se ao {13} ensinamento distinto e categórico dos formulários
+        nacionais sobre o tema do Batismo; estranho, até que se compreenda que o intérprete do seu
+        sentido é a própria Nação, e que essa secção no Estabelecimento fala com a confiança de
+        homens que sabem que têm a Nação do seu lado. Permito-me aqui referir às justas e viris
+        admissões sobre este assunto, de um escritor de altos princípios, que foram recentemente
+        dadas a público:— "Há" uma "consideração," diz ele, "que, há algum tempo, tem pesado forte e
+        dolorosamente sobre mim. De facto, o partido Evangélico declara de forma clara, aberta e
+        completa as suas opiniões sobre as doutrinas que defendem que a Igreja de Inglaterra
+        sustenta; eles dizem continuamente ao seu povo o que devem, como dever para com Deus e para
+        consigo mesmos, tanto crer como praticar. Pode-se pretender que nós, como partido, ansiosos
+        por ensinar a verdade, somos igualmente abertos, claros e sem reservas?</target>
+    <source>["... And it is not to be alleged, that only the less important duties and doctrines are
+        so reserved: as if it would be an easy thing to distinguish and draw a line of division
+        between them ... We do reserve vital and essential truths; we often hesitate and fear to
+        teach our people many duties, not all necessary, perhaps, in every case or to every person,
+        but eminently practical, and sure to increase the growth of the inner, spiritual life; we
+        differ, in short, as widely from the Evangelical party in the manner and openness, as in the
+        {14} matter and details of our doctrine ... All this seems to me to be, day by day and hour
+        by hour, more and more hard to be reconciled with the real spirit, mind, and purpose of the
+        English Reformation, and of the modern English Church, shown by the experience of three
+        hundred years ... People often say it is wrong to use such terms as 'the spirit of the
+        Reformed English Church;' or 'its intention,' 'purpose,' and the like.", 'And is it really
+        so?', 'was the Reformation nothing?', 'did it effect nothing, change nothing, remove
+        nothing?', '… No doubt the Reformed Church of England claims to be a portion of the Holy
+        Catholic Church; and it has been common for many of our own opinions, to add also the
+        assertion, that she rejects and condemns, as being out of the Church Catholic, the Reformed
+        Churches abroad, Lutheran, Genevan, and others, together with the Kirk of Scotland, or the
+        Dissenters at home.']</source>
+    <entities>['Duties', 'Doctrines', 'DutiesAndDoctrines', 'LessImportantDuties', 'Thing',
+        'EasyThing', 'Truths', 'VitalTruths', 'EssentialTruths', 'People', 'Case', 'EveryCase',
+        'Person', 'EveryPerson', 'Life', 'InnerSpiritualLife', 'Growth',
+        'GrowthOfTheInnerSpiritualLife', 'Party', 'EvangelicalParty', 'Manner', 'Openness',
+        'MannerAndOpenness', 'Matter', 'Details', 'MatterAndDetails', 'Doctrine', 'Spirit',
+        'RealSpirit', 'Mind', 'Purpose', 'MindAndPurpose', 'Reformation', 'EnglishReformation',
+        'SpiritOfTheEnglishReformation', 'MindOfTheEnglishReformation',
+        'PurposeOfTheEnglishReformation', 'Church', 'EnglishChurch', 'ModernEnglishChurch',
+        'SpiritOfTheModernEnglishChurch', 'MindOfTheModernEnglishChurch',
+        'PurposeOfTheModernEnglishChurch', 'Experience', 'Years', 'ThreeHundredYears', 'Terms',
+        'ReformedEnglishChurch', 'SpiritOfTheReformedEnglishChurch', 'Intention',
+        'IntentionAndPurpose', 'ReformedChurch', 'England', 'Portion', 'HolyCatholicChurch',
+        'PortionOfTheHolyCatholicChurch', 'ReformedChurches', 'Kirk', 'Scotland', 'Dissenters']</entities>
+    <query>[]</query>
+    <target>... E não se deve alegar que apenas os deveres e doutrinas menos importantes são assim
+        reservados: como se fosse fácil distinguir e traçar uma linha divisória entre eles... Nós de
+        fato reservamos verdades vitais e essenciais; frequentemente hesitamos e tememos ensinar ao
+        nosso povo muitos deveres, nem todos necessários, talvez, em todos os casos ou a todas as
+        pessoas, mas eminentemente práticos e que certamente aumentam o crescimento da vida
+        interior, espiritual; diferimos, em suma, tão amplamente do partido Evangélico na maneira e
+        na abertura, quanto na {14} matéria e nos detalhes de nossa doutrina... Tudo isso me parece,
+        dia a dia e hora a hora, cada vez mais difícil de ser reconciliado com o verdadeiro
+        espírito, mente e propósito da Reforma Inglesa, e da Igreja Inglesa moderna, demonstrados
+        pela experiência de trezentos anos... As pessoas frequentemente dizem que é errado usar
+        termos como 'o espírito da Igreja Reformada Inglesa'; ou 'a sua intenção', 'propósito' e
+        semelhantes. E é mesmo assim? A Reforma não foi nada? Não efetuou nada, não mudou nada, não
+        removeu nada?... Sem dúvida, a Igreja Reformada da Inglaterra afirma ser uma porção da Santa
+        Igreja Católica; e tem sido comum para muitos de nossas próprias opiniões, adicionar também
+        a afirmação de que ela rejeita e condena, como estando fora da Igreja Católica, as Igrejas
+        Reformadas no exterior, Luterana, Genebrina e outras, juntamente com a Kirk da Escócia, ou
+        os Dissidentes em casa.</target>
+    <source>['Upon our principles, nay, on any consistent Church principle at all, such a corollary
+        must follow.', 'But there is a strangeness in it; it commends itself perhaps to our
+        intellect, but not to the eye or ear; nor, it may be, to the heart or conscience."', '[Note
+        2]\n\nThese remarks are as true as they are candid; and it is, I hope, no disrespect to the
+        Author, if, taking them from their context, I use them for my own argument, which is not
+        indeed divergent, though distinct from his own.', 'Whether, then, they prove that the
+        Evangelical {15} party is as much at home in the National Prayer-Book as the Anglican, I
+        will not pronounce; but at least they prove that that party is far more at home in the
+        National Establishment; that it is in cordial and intimate sympathy with the sovereign Lord
+        and Master of the Prayer-Book, its composer and interpreter, the Nation itself,—on the best
+        terms with Queen and statesmen, and practical men, and country gentlemen, and respectable
+        tradesmen, fathers and mothers, school-masters, churchwardens, vestries, public societies,
+        newspapers, and their readers in the lower classes.', 'The Evangelical ministers of the
+        Establishment have, in comparison with their Anglican rivals, the spirit of the age with
+        them; they are congenial with the age; they glide forward rapidly and proudly down the
+        stream; and it is this fact, and their consciousness of it, which carries them over all
+        difficulties.']</source>
+    <entities>['Principles', 'Principle', 'Corollary', 'Strangeness', 'Intellect', 'Eye', 'Ear',
+        'Heart', 'Conscience', 'Remarks', 'Author', 'Context', 'Argument', 'Party', 'Home',
+        'PrayerBook', 'Anglican', 'Establishment', 'Sympathy', 'Lord', 'Master', 'Composer',
+        'Interpreter', 'Nation', 'Terms', 'Queen', 'Statesmen', 'Men', 'Gentlemen', 'Tradesmen',
+        'Fathers', 'Mothers', 'SchoolMasters', 'Churchwardens', 'Vestries', 'Societies',
+        'Newspapers', 'Readers', 'Classes', 'Ministers', 'Comparison', 'Rivals', 'Spirit', 'Age',
+        'Stream', 'Fact', 'Consciousness', 'Difficulties', 'ConsistentPrinciple', 'ChurchPrinciple',
+        'TrueRemarks', 'CandidRemarks', 'OwnArgument', 'DivergentArgument', 'DistinctArgument',
+        'EvangelicalParty', 'NationalPrayerBook', 'NationalEstablishment', 'CordialSympathy',
+        'IntimateSympathy', 'SovereignLord', 'BestTerms', 'PracticalMen', 'CountryGentlemen',
+        'RespectableTradesmen', 'PublicSocieties', 'LowerClasses', 'EvangelicalMinisters',
+        'AnglicanRivals', 'CongenialAge', 'SpiritOfTheAge', 'LordAndMaster',
+        'ComposerAndInterpreter', 'QueenAndStatesmen', 'StatesmenAndPracticalMen',
+        'FathersAndMothers', 'NewspapersAndReaders', 'FactAndConsciousness']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}, {'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#NationalEstablishment', 'label_en': 'National Establishment',
+        'label_pt': 'Estabelecimento Nacional'}]</query>
+    <target>Com base em nossos princípios, aliás, em qualquer princípio consistente da Igreja, tal
+        corolário deve seguir-se. Mas há uma estranheza nisso; talvez se recomende ao nosso
+        intelecto, mas não aos olhos ou ouvidos; nem, talvez, ao coração ou à consciência."[Nota 2]
+        Essas observações são tão verdadeiras quanto francas; e não é, espero, falta de respeito ao
+        Autor, se, retirando-as de seu contexto, as uso para meu próprio argumento, que não é de
+        fato divergente, embora distinto do dele. Se, então, provam que o partido Evangélico {15}
+        está tão à vontade no Livro de Oração Nacional quanto o Anglicano, não vou pronunciar; mas
+        pelo menos provam que esse partido está muito mais à vontade no Estabelecimento Nacional;
+        que está em cordial e íntima simpatia com o soberano Senhor e Mestre do Livro de Oração, seu
+        compositor e intérprete, a própria Nação — em excelentes termos com a Rainha e os
+        estadistas, e homens práticos, e cavalheiros do campo, e comerciantes respeitáveis, pais e
+        mães, diretores de escola, zeladores da igreja, conselhos paroquiais, sociedades públicas,
+        jornais e seus leitores nas classes mais baixas. Os ministros Evangélicos do Estabelecimento
+        têm, em comparação com seus rivais Anglicanos, o espírito da época a seu favor; são
+        congeniais com a época; deslizam rápida e orgulhosamente corrente abaixo; e é esse fato, e a
+        consciência dele, que os leva a superar todas as dificuldades.</target>
+    <source>['Jewell was triumphant over Harding, and Wake over Atterbury or Leslie, with the
+        terrors or the bribes of a sovereign to back them; and their successors in this day have, in
+        like manner, the strength of public opinion on their side.', 'The letter of enactments,
+        pristine customs, ancient rights, is no match for the momentum with which they rush along
+        upon the flood of public opinion, which rules that every conclusion is absurd, and every
+        argument sophistical, and every maxim untrue, except such as it recognises itself.',
+        '{16}\n\n\nHow different has it been with the opposite party?', 'Confident, indeed, and with
+        reason, of the truth of its great principles, having a perception and certainty of its main
+        tenets, which is like the evidence of sense compared with the feeble, flitting, and unreal
+        views of doctrine held by the Evangelical body, still, as to their application, their
+        adaptation, their combination, their development, it has been miserably conscious that it
+        has had nothing to guide it but its own private and unaided judgment.', 'Dreading its own
+        interpretation of Scripture and the Fathers, feeling its need of an infallible guide, yet
+        having none; looking up to its own Mother, as it called her, and finding her silent,
+        ambiguous, unsympathetic, sullen, and even hostile to it; with ritual mutilated, sacraments
+        defective, precedents inconsistent, articles equivocal, canons obsolete, courts Protestant,
+        and synods suspended; scouted by the laity, scorned by men of the world, hated and blackened
+        by its opponents; and moreover at variance with itself, hardly two of its members taking up
+        the same position, nay, all of them, one by one, shifting their own ground as time went on,
+        and obliged to confess that they were in progress; is it wonderful, in the words of the
+        Pamphlet already referred to, that these men have exhibited "a conduct and a rule of a
+        religious life," "full of shifts, and compromises, and evasions, a rule of life, based upon
+        the acceptance of half one doctrine, all the {17} next, and none of the third, upon the
+        belief entirely of another, but not daring to say so?"']</source>
+    <entities>['Acceptance', 'Adaptation', 'AncientRights', 'Application', 'Argument', 'Articles',
+        'Atterbury', 'Belief', 'Body', 'Bribes', 'Canons', 'Certainty', 'Combination', 'Conclusion',
+        'Conduct', 'Courts', 'Customs', 'Day', 'DefectiveSacraments', 'Development', 'Doctrine',
+        'Enactments', 'EquivocalArticles', 'EvangelicalBody', 'Evasions', 'Evidence', 'Fathers',
+        'FeebleViews', 'FlittingViews', 'Flood', 'GreatPrinciples', 'Ground', 'Guide', 'Harding',
+        'InfallibleGuide', 'InconsistentPrecedents', 'Interpretation', 'Jewell', 'Judgment',
+        'Laity', 'Leslie', 'Letter', 'Life', 'MainTenets', 'Maxim', 'Members', 'Men', 'Momentum',
+        'Mother', 'MutilatedRitual', 'Need', 'ObsoleteCanons', 'Opponents', 'OppositeParty',
+        'Pamphlet', 'Party', 'Perception', 'PerceptionAndCertainty', 'Position', 'Precedents',
+        'Principles', 'PristineCustoms', 'PrivateJudgment', 'Progress', 'ProtestantCourts',
+        'PublicOpinion', 'Reason', 'ReligiousLife', 'Rights', 'Ritual', 'Rule', 'Sacraments',
+        'Scripture', 'ScriptureAndFathers', 'Sense', 'Shifts', 'ShiftsAndCompromises',
+        'ShiftsAndCompromisesAndEvasions', 'Sovereign', 'Strength', 'Successors', 'SuspendedSynods',
+        'Synods', 'Tenets', 'Terrors', 'TerrorsOrBribes', 'Time', 'Truth', 'UnaidedJudgment',
+        'UnrealViews', 'Variance', 'Views', 'Wake', 'Words', 'World']</entities>
+    <query>[]</query>
+    <target>Jewell triunfou sobre Harding, e Wake sobre Atterbury ou Leslie, com os terrores ou os
+        subornos de um soberano para os apoiar; e os seus sucessores, hoje em dia, têm, da mesma
+        forma, a força da opinião pública ao seu lado. A letra dos decretos, os costumes primitivos,
+        os direitos antigos, não são páreo para o ímpeto com que se precipitam sobre a maré da
+        opinião pública, que decreta que toda conclusão é absurda, todo argumento sofístico e toda
+        máxima falsa, exceto aquelas que ela própria reconhece.{16} Quão diferente tem sido com o
+        partido oposto? Confiante, de fato, e com razão, na verdade dos seus grandes princípios,
+        tendo uma perceção e certeza dos seus principais dogmas, que é como a evidência dos sentidos
+        comparada com as visões doutrinárias fracas, fugazes e irreais sustentadas pelo corpo
+        Evangélico, ainda assim, quanto à sua aplicação, sua adaptação, sua combinação, seu
+        desenvolvimento, tem estado miseravelmente consciente de que nada teve para a guiar senão o
+        seu próprio julgamento privado e sem auxílio. Temendo a sua própria interpretação da
+        Escritura e dos Padres, sentindo a sua necessidade de um guia infalível, mas não tendo
+        nenhum; olhando para a sua própria Mãe, como lhe chamava, e encontrando-a silenciosa,
+        ambígua, insensível, carrancuda e até hostil a ela; com ritual mutilado, sacramentos
+        defeituosos, precedentes inconsistentes, artigos equívocos, cânones obsoletos, tribunais
+        Protestantes e sínodos suspensos; rejeitada pelos leigos, desprezada pelos homens do mundo,
+        odiada e difamada pelos seus oponentes; e, além disso, em desacordo consigo mesma, mal dois
+        dos seus membros assumindo a mesma posição, aliás, todos eles, um por um, mudando o seu
+        próprio terreno à medida que o tempo passava, e obrigados a confessar que estavam em
+        progresso; é de admirar, nas palavras do Panfleto já referido, que estes homens tenham
+        exibido "uma conduta e uma regra de vida religiosa", "cheia de rodeios, e compromissos, e
+        evasões, uma regra de vida, baseada na aceitação de metade de uma doutrina, toda a {17}
+        seguinte, e nenhuma da terceira, na crença inteira de outra, mas sem ousar dizê-lo?"</target>
+    <source>['After all, they have not been nearly so guilty "of shifts, and compromises, and
+        evasions," as the national formularies themselves; but they have had none to support them,
+        or, if I may use a familiar word, to act the bully for them, under the imputation.', 'There
+        was no one, with confident air and loud voice, to retort upon their opponents the charges
+        urged against them, and no public to applaud though there had been.', 'Whether they looked
+        above or below, behind or before, they found nothing, indeed, to shake or blunt their faith
+        in Christ, in His establishment of a Church, in its visibility, continuance, catholicity,
+        and gifts, and in the necessity of belonging to it: they despised the hollowness of their
+        opponents, the inconsequence of their arguments, the shallowness of their views, their
+        disrelish of principle, and their carelessness about truth, but their heart sunk within
+        them, under the impossibility, on the one hand, of their carrying out their faith into
+        practice, there, where they found themselves, and of realising their ideas in fact,—and the
+        duty on the other, as they were taught it, of making the best of the circumstances in which
+        they were placed.', 'Such were they; I trust they are so still: I will not allow myself to
+        fancy that secret doubts on the one hand, that self-will, disregard of authority, an
+        unmanly, disingenuous bearing, and the spirit of party on the other, have deformed a body of
+        persons whom I have loved, {18} revered, and sympathised with.', 'I speak of those many
+        persons whom I admired; who, like the hero in the epic, did not want courage, but
+        encouragement; who looked out in vain for the approbation of authority; who felt their own
+        power, but shrank from the omen of evil, the hateful raven, which flapped its wings over
+        them; who seemed to say with the poet—\n\n—Non me tua fervida terrent\nDicta, ferox; Dii me
+        terrent, et Jupiter hostis.']</source>
+    <entities>['Shifts', 'Compromises', 'Evasions', 'ShiftsAndCompromises',
+        'ShiftsAndCompromisesAndEvasions', 'NationalFormularies', 'FamiliarWord', 'Bully',
+        'Imputation', 'One', 'NoOne', 'ConfidentAir', 'LoudVoice', 'ConfidentAirAndLoudVoice',
+        'Opponents', 'TheirOpponents', 'Charges', 'Public', 'NoPublic', 'Nothing', 'Faith',
+        'TheirFaith', 'Christ', 'Establishment', 'HisEstablishment', 'Church', 'AChurch',
+        'EstablishmentOfAChurch', 'Visibility', 'ItsVisibility', 'Continuance', 'Catholicity',
+        'Gifts', 'VisibilityAndContinuance', 'VisibilityAndContinuanceAndCatholicity',
+        'VisibilityAndContinuanceAndCatholicityAndGifts', 'Necessity', 'Hollowness',
+        'HollownessOfTheirOpponents', 'Inconsequence', 'TheirArguments',
+        'InconsequenceOfTheirArguments', 'Shallowness', 'TheirViews', 'ShallownessOfTheirViews',
+        'Disrelish', 'TheirDisrelish', 'Principle', 'DisrelishOfPrinciple', 'Carelessness',
+        'TheirCarelessness', 'Truth', 'Heart', 'TheirHeart', 'Impossibility', 'OneHand', 'Carrying',
+        'TheirCarrying', 'Practice', 'Ideas', 'TheirIdeas', 'Fact', 'Duty', 'Other', 'Best',
+        'Circumstances', 'BestOfTheCircumstances', 'SecretDoubts', 'SelfWill', 'Disregard',
+        'Authority', 'DisregardOfAuthority', 'UnmanlyDisingenuousBearing', 'Spirit', 'Party',
+        'SpiritOfParty', 'Body', 'ABody', 'Persons', 'BodyOfPersons', 'ThoseManyPersons', 'Hero',
+        'Epic', 'Courage', 'Encouragement', 'Approbation', 'ApprobationOfAuthority', 'OwnPower',
+        'TheirOwnPower', 'Omen', 'Evil', 'OmenOfEvil', 'HatefulRaven', 'Wings', 'ItsWings', 'Poet']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Afinal, eles não foram tão culpados "de mudanças, e compromissos, e evasões", quanto os
+        próprios formulários nacionais; mas não tiveram ninguém para os apoiar, ou, se me permitem
+        usar uma palavra familiar, para agir o valentão por eles, sob a imputação. Não havia
+        ninguém, com ar confiante e voz alta, para retorquir aos seus oponentes as acusações feitas
+        contra eles, e nenhum público para aplaudir, mesmo que houvesse. Quer olhassem para cima ou
+        para baixo, para trás ou para a frente, nada encontravam, de facto, que abalasse ou
+        enfraquecesse a sua fé em Cristo, no Seu estabelecimento de uma Igreja, na sua visibilidade,
+        continuidade, catolicidade e dons, e na necessidade de a ela pertencer: desprezavam a
+        superficialidade dos seus oponentes, a inconsequência dos seus argumentos, a pobreza das
+        suas opiniões, a sua aversão a princípios e a sua negligência para com a verdade, mas o seu
+        coração afundava-se dentro deles, pela impossibilidade, por um lado, de levarem a sua fé à
+        prática, ali, onde se encontravam, e de realizarem as suas ideias de facto,—e o dever, por
+        outro, tal como lhes foi ensinado, de tirar o melhor partido das circunstâncias em que
+        estavam colocados. Assim eram eles; confio que ainda o são: não me permitirei imaginar que
+        dúvidas secretas, por um lado, que a obstinação, o desrespeito pela autoridade, um
+        comportamento pouco viril e dissimulado, e o espírito partidário, por outro, tenham
+        deformado um corpo de pessoas a quem amei, {18} reverenciei e com quem simpatizei. Falo
+        daquelas muitas pessoas que admirei; que, como o herói na epopeia, não lhes faltava coragem,
+        mas encorajamento; que procuraram em vão a aprovação da autoridade; que sentiam o seu
+        próprio poder, mas encolhiam-se perante o presságio do mal, o corvo odioso, que batia as
+        suas asas sobre eles; que pareciam dizer com o poeta—Non me tua fervida terrent Dicta,
+        ferox; Dii me terrent, et Jupiter hostis.</target>
+    <source>['But their very desire of realities, and their fear of deceiving themselves with
+        dreams, was their insurmountable difficulty here.', 'They could not make the Establishment
+        what it was not, and this was forced on them day after day.', 'It is a principle, in some
+        sense acknowledged by Catholic theologians, that the spirit of an age modifies its inherited
+        professions.', 'Moralists lay down, that a law loses its authority which the lawgiver
+        knowingly allows to be infringed and put aside; whatever, then, be the abstract claims of
+        the Anglican cause, the fact is that the living community to which they belong has for
+        centuries ignored and annulled them.', "It was a principle parallel to this which furnished
+        one of the reasons on which the judges of the Queen's Bench the other day acted, when they
+        refused to prohibit the execution of the Royal decision, in the appeal made from the Bishop
+        of Exeter."]</source>
+    <entities>['Desire', 'Realities', 'Fear', 'Dreams', 'Difficulty', 'VeryDesire',
+        'InsurmountableDifficulty', 'DesireAndFear', 'Establishment', 'Day', 'Principle', 'Sense',
+        'Theologians', 'Spirit', 'Age', 'Professions', 'CatholicTheologians',
+        'InheritedProfessions', 'Moralists', 'Law', 'Authority', 'Lawgiver', 'Claims', 'Cause',
+        'Fact', 'Community', 'Centuries', 'AbstractClaims', 'AnglicanCause', 'LivingCommunity',
+        'ClaimsOfTheAnglicanCause', 'Reasons', 'Judges', 'Bench', 'Execution', 'Decision', 'Appeal',
+        'Bishop', 'Exeter', 'One', 'RoyalDecision', 'QueenSBench', 'OneOfTheReasons',
+        'JudgesOfTheQueenSBench', 'ExecutionOfTheRoyalDecision']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Mas o seu próprio desejo de realidades, e o seu medo de se enganarem com sonhos, era a
+        sua dificuldade intransponível aqui. Eles não podiam fazer do Estabelecimento o que ele não
+        era, e isso era-lhes imposto dia após dia. É um princípio, em certo sentido reconhecido
+        pelos teólogos católicos, que o espírito de uma época modifica as suas profissões herdadas.
+        Moralistas estabelecem que uma lei perde a sua autoridade quando o legislador permite
+        conscientemente que seja infringida e posta de lado; quaisquer que sejam, então, as
+        reivindicações abstratas da causa Anglicana, o facto é que a comunidade viva à qual
+        pertencem as ignorou e anulou por séculos. Foi um princípio paralelo a este que forneceu uma
+        das razões pelas quais os juízes do Tribunal da Rainha (Queen's Bench) agiram no outro dia,
+        quando se recusaram a proibir a execução da decisão Real, no recurso apresentado pelo Bispo
+        de Exeter.</target>
+    <source>['His counsel urged certain provisions in statutes of the reign {19} of Henry VIII.,
+        which had not been discussed in the pleadings.', '"Were the language of 25 Henry VIII.', 'c.
+        9, obscure instead of clear," observed the Chief Justice, "we should not be justified in
+        differing from the construction put upon it by contemporaneous and long-continued usage.',
+        'There would be no safety for property or liberty if it could be successfully contended,
+        that all lawyers and statesmen have been mistaken for centuries as to the true meaning of
+        the Act of Parliament."', 'Whatever becomes of the general question, this was at least the
+        language of reason and common sense; as physical life assimilates to itself, or casts off,
+        whatever it encounters, allowing no interference with the supremacy of its own proper
+        principles, so is it with life social and civil.']</source>
+    <entities>['Counsel', 'HisCounsel', 'Provisions', 'CertainProvisions', 'Statutes', 'Reign',
+        'StatutesOfTheReign', 'HenryViii', 'Pleadings', 'Language', '25HenryViiiC9', 'ChiefJustice',
+        'Construction', 'Usage', 'ContemporaneousUsage', 'LongContinuedUsage', 'Safety', 'Property',
+        'Liberty', 'Lawyers', 'Statesmen', 'LawyersAndStatesmen', 'Centuries', 'Meaning',
+        'TrueMeaning', 'Act', 'Parliament', 'MeaningOfTheAct', 'Question', 'GeneralQuestion',
+        'Reason', 'Sense', 'CommonSense', 'ReasonAndCommonSense', 'Life', 'PhysicalLife',
+        'Interference', 'Supremacy', 'Principles', 'ProperPrinciples', 'SocialLife', 'CivilLife']</entities>
+    <query>[]</query>
+    <target>Seu advogado invocou certas disposições nos estatutos do reinado {19} de Henrique VIII,
+        que não haviam sido discutidas nas alegações. "Se a linguagem de 25 Henrique VIII, c. 9,
+        fosse obscura em vez de clara", observou o Chefe de Justiça, "não estaríamos justificados em
+        discordar da interpretação que lhe foi dada pelo uso contemporâneo e de longa duração. Não
+        haveria segurança para a propriedade ou a liberdade se pudesse ser contestado com sucesso
+        que todos os advogados e estadistas estiveram enganados por séculos quanto ao verdadeiro
+        significado do Ato do Parlamento." Independentemente do que aconteça com a questão geral,
+        esta era pelo menos a linguagem da razão e do bom senso; assim como a vida física assimila
+        ou rejeita tudo o que encontra, não permitindo qualquer interferência com a supremacia de
+        seus próprios princípios, assim é com a vida social e civil.</target>
+    <source>['When a body politic grows, takes definite shape, and matures, it slights, though it
+        may endure, the vestiges and tokens of its rude beginnings.', 'It may cherish them as
+        curiosities, but it abjures them as precedents.', 'They may hang about it, as the shrivelled
+        blossom about the formed fruit; but they are dead, and will be sure to disappear as soon as
+        they are felt to be troublesome.', 'Common sense tells us these appendages do not apply to
+        things as they are; and, if individuals attempt to insist on them, they will but bring on
+        themselves the just imputation of vexatiousness and extravagance.', 'So it is with the
+        Anglican formularies; they are but the expression of the national sentiment, and therefore
+        are necessarily modified by it.']</source>
+    <entities>['PoliticBody', 'DefiniteShape', 'VestigesAndTokens', 'RudeBeginnings', 'Curiosities',
+        'Precedents', 'ShrivelledBlossom', 'FormedFruit', 'CommonSense', 'Appendages', 'Things',
+        'Individuals', 'JustImputation', 'VexatiousnessAndExtravagance', 'AnglicanFormularies',
+        'ExpressionOfTheNationalSentiment']</entities>
+    <query>[]</query>
+    <target>Quando um corpo político cresce, toma forma definida e amadurece, ele desdenha, embora
+        possa suportar, os vestígios e sinais de seus primórdios rudes. Pode guardá-los como
+        curiosidades, mas os abjura como precedentes. Podem pender sobre ele, como a flor murcha
+        sobre o fruto formado; mas estão mortos e certamente desaparecerão assim que forem
+        considerados problemáticos. O bom senso nos diz que esses apêndices não se aplicam às coisas
+        como elas são; e, se indivíduos tentarem insistir neles, apenas atrairão para si a justa
+        imputação de vexação e extravagância. Assim é com os formulários anglicanos; eles são apenas
+        a expressão do sentimento nacional e, portanto, são necessariamente modificados por ele.</target>
+    <source>['{20} Did the nation grow into Catholicity, they might easily be made to assume a
+        Catholic demeanour; but as it has matured in its Protestantism, they must take, day by day,
+        a more Evangelical and liberal aspect.', 'Of course I am not saying this by way of
+        justifying individuals in professing and using doctrinal and devotional forms from which
+        they dissent; nor am I denying that words have, or at least ought to have, a definite
+        meaning which must not be explained away; I am merely stating what takes place in matter of
+        fact, allowably in some cases, wrongly in others, according to the strength, on the one
+        hand, of the wording of the formulary, and of the diverging opinion on the other.', "I say,
+        that a nation's laws are a nation's property, and have their life in the nation's life, and
+        their interpretation in the nation's sentiment: and where that living intelligence does not
+        shine through them, they become worthless and are put aside, whether formally or on an
+        understanding.", "Now Protestantism is, as it has been for centuries, the Religion of
+        England; and since the semi-patristical Church, which was set up for the nation at the
+        Reformation, is the organ of that religion, it must live for the nation; it must hide its
+        Catholic aspirations in folios, or in college cloisters; it must call itself Protestant,
+        when it gets into the pulpit; it must abjure Antiquity; for woe to it, if it attempt to
+        thrust the wording of its own documents in its master's path, {21} if it rely on a passage
+        in its Visitation for the Sick, or on an Article of the Creed, or on the tone of its
+        Collects, or on a catena of its divines, when the age has determined on a theology more in
+        keeping with the progress of knowledge!", 'The antiquary, the reader of history, the
+        theologian, the philosopher, the Biblical student may make his protest; he may quote St.
+        Austin, or appeal to the canons, or argue from the nature of the case; but la Reine le veut;
+        the English people is sufficient for itself; it wills to be Protestant and progressive; and
+        Fathers, Councils, Schoolmen, Scriptures, Saints, Angels, and what is above them, must give
+        way.']</source>
+    <entities>['Nation', 'Catholicity', 'CatholicDemeanour', 'Demeanour', 'Protestantism',
+        'EvangelicalAspect', 'Aspect', 'LiberalAspect', 'Individuals', 'DoctrinalForms', 'Forms',
+        'DevotionalForms', 'DefiniteMeaning', 'Meaning', 'Matter', 'Fact', 'SomeCases', 'Cases',
+        'Others', 'Strength', 'Wording', 'Formulary', 'DivergingOpinion', 'Opinion', 'Laws',
+        'Property', 'Life', 'Interpretation', 'Sentiment', 'LivingIntelligence', 'Intelligence',
+        'Protestantism', 'Centuries', 'Religion', 'England', 'SemiPatristicalChurch', 'Church',
+        'Reformation', 'Organ', 'Religion', 'CatholicAspirations', 'Aspirations', 'Folios',
+        'College', 'Cloisters', 'Pulpit', 'Antiquity', 'Woe', 'Wording', 'OwnDocuments',
+        'Documents', 'Master', 'Path', 'Passage', 'Visitation', 'Sick', 'ArticleOfTheCreed',
+        'Article', 'Creed', 'Tone', 'Collects', 'Catena', 'Divines', 'Age', 'Theology', 'Progress',
+        'Knowledge', 'Antiquary', 'Reader', 'History', 'Theologian', 'Philosopher',
+        'BiblicalStudent', 'Student', 'Protest', 'StAustin', 'Canons', 'NatureOfTheCase', 'Nature',
+        'Case', 'LaReine', 'EnglishPeople', 'People', 'FathersAndCouncils', 'Fathers', 'Councils',
+        'CouncilsAndSchoolmen', 'Schoolmen', 'SchoolmenAndScriptures', 'Scriptures',
+        'ScripturesAndSaints', 'Saints', 'SaintsAndAngels', 'Angels']</entities>
+    <query>[]</query>
+    <target>{20} Se a nação crescesse na Catolicidade, eles poderiam facilmente ser levados a
+        assumir um porte católico; mas como amadureceu em seu Protestantismo, devem assumir, dia a
+        dia, um aspecto mais Evangélico e liberal. É claro que não estou dizendo isso para
+        justificar indivíduos em professar e usar formas doutrinárias e devocionais das quais eles
+        discordam; nem estou negando que as palavras têm, ou pelo menos deveriam ter, um significado
+        definido que não deve ser desvirtuado; estou meramente afirmando o que ocorre de fato,
+        permissível em alguns casos, errado em outros, de acordo com a força, por um lado, da
+        redação do formulário, e da opinião divergente, por outro. Digo que as leis de uma nação são
+        propriedade de uma nação, e têm sua vida na vida da nação, e sua interpretação no sentimento
+        da nação: e onde essa inteligência viva não brilha através delas, elas se tornam sem valor e
+        são postas de lado, seja formalmente ou por um entendimento. Ora, o Protestantismo é, como
+        tem sido por séculos, a Religião da Inglaterra; e uma vez que a Igreja semi-patrística, que
+        foi estabelecida para a nação na Reforma, é o órgão dessa religião, ela deve viver para a
+        nação; deve esconder suas aspirações católicas em fólio, ou em claustros de colégio; deve
+        autodenominar-se Protestante, quando sobe ao púlpito; deve abjurar a Antiguidade; pois ai
+        dela, se tentar impor a redação de seus próprios documentos no caminho de seu mestre, {21}
+        se confiar em uma passagem de sua Visitação aos Enfermos, ou em um Artigo do Credo, ou no
+        tom de suas Coletas, ou em uma catena de seus teólogos, quando a época determinou uma
+        teologia mais em consonância com o progresso do conhecimento! O antiquário, o leitor de
+        história, o teólogo, o filósofo, o estudante bíblico pode fazer seu protesto; pode citar
+        Santo Agostinho, ou apelar aos cânones, ou argumentar a partir da natureza do caso; mas la
+        Reine le veut; o povo inglês é suficiente para si mesmo; ele quer ser Protestante e
+        progressista; e Padres, Concílios, Escolásticos, Escrituras, Santos, Anjos, e o que está
+        acima deles, devem ceder.</target>
+    <source>['What are they to it?', 'It thinks, argues, and acts according to its own practical,
+        intelligible, shallow religion; and of that religion its Bishops and divines, will they or
+        will they not, must be exponents [Note 3].', 'In this way, I say, we are to explain, but in
+        this way most naturally and satisfactorily, what otherwise would {22} be startling, the late
+        Royal decision to which I have several times referred.', 'The great legal authorities, on
+        whose report it was made, have not only pronounced, that, as a matter of fact, persons who
+        have denied the grace of Baptism had held the highest preferments in the National Church,
+        but they felt themselves authorised actually to interpret its ritual and its doctrine, and
+        to report to her Majesty that the dogma of baptismal regeneration is not part and parcel of
+        the national religion.', 'They felt themselves strong enough, in their position, to
+        pronounce "that the doctrine held by" the Protestant clergyman, who brought the matter
+        before them, "was not contrary or repugnant to the declared doctrine of the Church of
+        England, as by law established."']</source>
+    <entities>['It', 'Religion', 'PracticalReligion', 'IntelligibleReligion', 'ShallowReligion',
+        'Bishops', 'Divines', 'BishopsAndDivines', 'Exponents', 'Way', 'Decision', 'LateDecision',
+        'RoyalDecision', 'Authorities', 'GreatAuthorities', 'LegalAuthorities', 'Report', 'Matter',
+        'Fact', 'Persons', 'Grace', 'Baptism', 'Preferments', 'HighestPreferments', 'Church',
+        'NationalChurch', 'Ritual', 'Doctrine', 'RitualAndDoctrine', 'Majesty', 'Dogma',
+        'Regeneration', 'BaptismalRegeneration', 'Part', 'Parcel', 'PartAndParcel',
+        'NationalReligion', 'Position', 'Clergyman', 'ProtestantClergyman', 'DeclaredDoctrine',
+        'DoctrineOfTheChurch', 'England', 'Law']</entities>
+    <query>[]</query>
+    <target>O que eles são para ela?Ela pensa, argumenta e age de acordo com a sua própria religião
+        prática, inteligível e superficial; e dessa religião os seus Bispos e teólogos, queiram ou
+        não, devem ser os expoentes [Nota 3].Desta forma, digo eu, devemos explicar, mas desta forma
+        a mais natural e satisfatória, o que de outra forma seria {22} surpreendente, a recente
+        decisão Real à qual me referi várias vezes.As grandes autoridades legais, com base em cujo
+        relatório foi feita, não só declararam que, de facto, pessoas que negaram a graça do Batismo
+        ocuparam os mais altos cargos na Igreja Nacional, mas sentiram-se autorizadas a interpretar
+        o seu ritual e a sua doutrina, e a relatar à Sua Majestade que o dogma da regeneração
+        batismal não faz parte integrante da religião nacional.Sentiram-se suficientemente fortes,
+        na sua posição, para declarar "que a doutrina defendida pelo" clérigo protestante, que lhes
+        apresentou o assunto, "não era contrária ou repugnante à doutrina declarada da Igreja de
+        Inglaterra, tal como estabelecida por lei."</target>
+    <source>['The question was not whether it was true or not,—as they most justly remarked,—whether
+        from heaven or from hell; they were too sober to meddle with what they had no means of
+        determining; they "abstained from expressing any opinion of their own upon the theological
+        correctness or error of the doctrine" propounded: the question was, not what God had said,
+        but what the English nation had willed and allowed; and, though it must be granted that they
+        aimed at a critical examination of the letter of the documents, yet it must be granted on
+        the other hand too, that their criticism was of a very national cast, and that the national
+        sentiment was of great use to them in helping them to their conclusions.', 'What was it to
+        the nation {23} or its lawyers whether Hooker used the word "charity" or "piety" in the
+        extract which they adduced from his works, and that "piety" gave one sense to the passage,
+        and "charity" another?', 'Hooker must speak as the existing nation speaks, if he is to be a
+        national authority.', 'What though the ritual categorically deposes to the regeneration of
+        the infant baptized?', 'The Evangelical party, who, in former years, had had the nerve to
+        fix the charge of dishonesty on the explanations of the Thirty-nine Articles, put forth by
+        their opponents, could all the while be cherishing in their own breasts an interpretation of
+        the Baptismal Service, simply contradictory to its most luminous declarations.']</source>
+    <entities>['Question', 'Heaven', 'Hell', 'Means', 'Opinion', 'AnyOpinion', 'Correctness',
+        'TheologicalCorrectness', 'Error', 'Doctrine', 'God', 'Nation', 'EnglishNation',
+        'Examination', 'CriticalExamination', 'Letter', 'Documents', 'LetterOfTheDocuments', 'Hand',
+        'OtherHand', 'Criticism', 'TheirCriticism', 'Cast', 'NationalCast', 'Sentiment',
+        'NationalSentiment', 'Use', 'GreatUse', 'Conclusions', 'TheirConclusions', 'Lawyers',
+        'ItsLawyers', 'Hooker', 'Word', 'Charity', 'Piety', 'Extract', 'Works', 'HisWorks', 'Sense',
+        'OneSense', 'Passage', 'Authority', 'NationalAuthority', 'Ritual', 'Regeneration', 'Infant',
+        'Baptized', 'InfantBaptized', 'RegenerationOfTheInfantBaptized', 'Party',
+        'EvangelicalParty', 'Years', 'FormerYears', 'Nerve', 'Charge', 'Dishonesty', 'Explanations',
+        'Articles', 'ThirtyNineArticles', 'ExplanationsOfTheThirtyNineArticles', 'Opponents',
+        'TheirOpponents', 'Breasts', 'OwnBreasts', 'Interpretation', 'Service', 'BaptismalService',
+        'InterpretationOfTheBaptismalService', 'Declarations', 'LuminousDeclarations']</entities>
+    <query>[]</query>
+    <target>A questão não era se era verdade ou não — como eles justamente observaram — se do céu ou
+        do inferno; eles eram demasiado sóbrios para se intrometerem com aquilo que não tinham meios
+        de determinar; eles "abstiveram-se de expressar qualquer opinião própria sobre a correção
+        teológica ou o erro da doutrina" proposta: a questão era, não o que Deus tinha dito, mas o
+        que a nação inglesa tinha querido e permitido; e, embora se deva conceder que eles visavam
+        um exame crítico da letra dos documentos, contudo, deve-se conceder também, por outro lado,
+        que a sua crítica era de um caráter muito nacional, e que o sentimento nacional lhes foi de
+        grande utilidade para os ajudar a chegar às suas conclusões. O que importava para a nação
+        {23} ou para os seus advogados se Hooker usava a palavra "caridade" ou "piedade" no excerto
+        que aduziram das suas obras, e que "piedade" dava um sentido à passagem, e "caridade" outro?
+        Hooker deve falar como a nação existente fala, se ele há de ser uma autoridade nacional. E
+        daí que o ritual deponha categoricamente sobre a regeneração do infante batizado? O partido
+        Evangélico, que, em anos anteriores, tivera a coragem de imputar a acusação de desonestidade
+        às explicações dos Trinta e Nove Artigos, apresentadas pelos seus oponentes, poderia,
+        enquanto isso, estar a alimentar em seus próprios peitos uma interpretação do Serviço
+        Batismal, simplesmente contraditória às suas declarações mais luminosas.</target>
+    <source>['Inexplicable proceeding, if they were professing to handle the document in its letter;
+        but not dishonourable, not dishonest, not hypocritical, but natural and obvious, on the
+        condition or understanding that the Nation, which imposes the document, imposes its
+        sense,—that by the breath of its mouth it had, as a god, made Establishment, Articles,
+        Prayer-Book, and all that is therein, and could by the breath of its mouth as easily and
+        absolutely unmake them again, whenever it was disposed.', 'Counsel, then, and pamphleteers
+        may put forth unanswerable arguments in behalf of the Catholic interpretation of the
+        Baptismal service; a long succession of Bishops, an unbroken tradition of writers, may have
+        faithfully and anxiously guarded it.', 'In vain has the Caroline school honoured it by
+        ritual observance; in {24} vain has the Restoration illustrated it by varied learning; in
+        vain did the Revolution retain it as the price for other concessions; in vain did the
+        eighteenth century use it as a sort of watchword against Wesley; in vain has it been
+        persuasively developed and fearlessly proclaimed by the movement of 1833; all this is
+        foreign to the matter before us.', 'We have not to enquire what is the dogma of a
+        collegiate, antiquarian religion, but what, in the words of the Prime Minister, will give
+        "general satisfaction;" what is the religion of Britons.', 'May not the free-born,
+        self-dependent, animal mind of the Englishman, choose his religion for himself?']</source>
+    <entities>['Proceeding', 'Document', 'Letter', 'Condition', 'Understanding', 'Nation', 'Sense',
+        'Breath', 'Mouth', 'God', 'Establishment', 'Articles', 'PrayerBook', 'All', 'Counsel',
+        'Pamphleteers', 'Arguments', 'Behalf', 'Interpretation', 'Service', 'Succession', 'Bishops',
+        'Tradition', 'Writers', 'School', 'Observance', 'Restoration', 'Learning', 'Revolution',
+        'Price', 'Concessions', 'Century', 'Sort', 'Watchword', 'Wesley', 'Movement', 'Matter',
+        'Dogma', 'Religion', 'Words', 'Minister', 'Satisfaction', 'Britons', 'Mind', 'Englishman',
+        'InexplicableProceeding', 'UnanswerableArguments', 'CatholicInterpretation',
+        'LongSuccession', 'UnbrokenTradition', 'CarolineSchool', 'VariedLearning',
+        'OtherConcessions', 'EighteenthCentury', 'PrimeMinister', 'GeneralSatisfaction',
+        'AnimalMind', 'AntiquarianReligion', 'BaptismalService',
+        'InterpretationOfTheBaptismalService', 'BehalfOfTheCatholicInterpretation',
+        'WordsOfThePrimeMinister', 'EstablishmentAndArticles', 'ArticlesAndPrayerBook',
+        'PrayerBookAndAll', 'CounselAndPamphleteers']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>Procedimento inexplicável, se eles professassem lidar com o documento em sua letra; mas
+        não desonroso, não desonesto, não hipócrita, mas natural e óbvio, sob a condição ou
+        entendimento de que a Nação, que impõe o documento, impõe o seu sentido,—que pelo sopro de
+        sua boca ela havia, como um deus, feito o Estabelecimento, os Artigos, o Livro de Oração, e
+        tudo o que neles se contém, e poderia pelo sopro de sua boca tão fácil e absolutamente
+        desfazê-los novamente, sempre que estivesse disposta.Advogados, então, e panfletários podem
+        apresentar argumentos irrefutáveis em defesa da interpretação Católica do serviço Batismal;
+        uma longa sucessão de Bispos, uma tradição ininterrupta de escritores, pode tê-la fiel e
+        ansiosamente guardado.Em vão a escola Carolina a honrou com observância ritual; em vão a
+        Restauração a ilustrou com variada erudição; em vão a Revolução a reteve como preço por
+        outras concessões; em vão o século XVIII a usou como uma espécie de palavra de ordem contra
+        Wesley; em vão ela foi persuasivamente desenvolvida e destemidamente proclamada pelo
+        movimento de 1833; tudo isso é alheio à questão diante de nós.Não temos que inquirir qual é
+        o dogma de uma religião colegial, antiquária, mas o que, nas palavras do Primeiro-Ministro,
+        dará "satisfação geral"; qual é a religião dos Britânicos.Não poderá a mente animal, livre,
+        auto-suficiente do Inglês, escolher a sua religião por si mesma?</target>
+    <source>['and have lawyers any more to do than to state, as a matter of fact and history, what
+        that religion is, and for three centuries has been?', 'are we to obtrude the mysteries of an
+        objective, of a dogmatic, of a revealed system, upon a nation which intimately feels and has
+        established, that each individual is to be his own judge in truth and falsehood in matters
+        of the unseen world?', 'How is it possible that the National Church, forsooth, should be
+        allowed to dogmatize on a point which so immediately affects the Nation itself?', 'Why, half
+        the country is unbaptized; it is difficult to say for certain who are baptized; shall the
+        country unchristianize itself?', 'it has not yet advanced to indifference on such a
+        matter.']</source>
+    <entities>['Lawyers', 'Matter', 'FactAndHistory', 'Religion', 'ThatReligion', 'ThreeCenturies',
+        'Mysteries', 'ObjectiveSystem', 'DogmaticSystem', 'RevealedSystem', 'System', 'Nation',
+        'Individual', 'Judge', 'TruthAndFalsehood', 'Matters', 'UnseenWorld', 'NationalChurch',
+        'Point', 'Nation', 'Half', 'Country', 'Country', 'Indifference', 'Matter']</entities>
+    <query>[]</query>
+    <target>e os advogados têm mais a fazer do que declarar, como questão de fato e história, o que
+        essa religião é, e por três séculos tem sido? devemos impor os mistérios de um sistema
+        objetivo, dogmático, revelado, a uma nação que sente intimamente e estabeleceu que cada
+        indivíduo deve ser seu próprio juiz na verdade e na falsidade em assuntos do mundo
+        invisível? Como é possível que a Igreja Nacional, porventura, seja autorizada a dogmatizar
+        sobre um ponto que afeta tão imediatamente a própria Nação? Ora, metade do país não é
+        batizada; é difícil dizer com certeza quem é batizado; o país vai descristianizar-se? ainda
+        não avançou para a indiferença em tal assunto.</target>
+    <source>['Shall it, by a suicidal act, use its own Church against itself, as its instrument
+        whereby to cut itself off from the hope of another life?', 'Shall it {25} confine the
+        Christian promise within limits, and put restrictions upon grace, when it has thrown open
+        trade, removed disabilities, abolished monopolies, taken off agricultural protection, and
+        enlarged the franchise?—Such is the thought, such the language of the England of today.',
+        'What a day for the defenders of the dogma in bygone times, if those times had anything to
+        do with the present!', 'What a day for Bishop Lavington, who, gazing on Wesley preaching the
+        new birth at Exeter, pronounced Methodism as bad as "Popery"!', 'What a portentous day for
+        Bampton Lecturers and divinity Professors!']</source>
+    <entities>['SuicidalAct', 'OwnChurch', 'Instrument', 'Hope', 'AnotherLife', 'ChristianPromise',
+        'Limits', 'Restrictions', 'Grace', 'Trade', 'Disabilities', 'Monopolies',
+        'AgriculturalProtection', 'Franchise', 'Thought', 'Language', 'England', 'Today', 'Day',
+        'DefendersOfTheDogma', 'BygoneTimes', 'Times', 'Present', 'BishopLavington', 'Wesley',
+        'NewBirth', 'Exeter', 'Methodism', 'Popery', 'PortentousDay', 'BamptonLecturers',
+        'DivinityProfessors', 'BamptonLecturersAndDivinityProfessors']</entities>
+    <query>[]</query>
+    <target>Deverá ela, por um ato suicida, usar sua própria Igreja contra si mesma, como seu
+        instrumento para se privar da esperança de outra vida? Deverá ela {25} confinar a promessa
+        cristã dentro de limites e impor restrições à graça, quando abriu o comércio, removeu as
+        incapacidades, aboliu os monopólios, retirou a proteção agrícola e ampliou o direito de
+        voto?—Tal é o pensamento, tal é a linguagem da Inglaterra de hoje. Que dia para os
+        defensores do dogma em tempos passados, se aqueles tempos tivessem algo a ver com o
+        presente! Que dia para o Bispo Lavington, que, ao observar Wesley pregando o novo nascimento
+        em Exeter, declarou o Metodismo tão ruim quanto o "Papismo"! Que dia portentoso para os
+        Conferencistas de Bampton e Professores de Teologia!</target>
+    <source>['What a day for Bishop Mant and Archbishop Lawrence, and Bishop Van Mildert, and
+        Archbishop Sutton, and, as we may trust, what a day had it been for Archbishop Howley, taken
+        away on its very dawning!', 'The giant ocean has suddenly swelled and heaved, and
+        majestically yet masterfully snaps the cables of the smaller craft which lie upon its bosom,
+        and strands them upon the beach.', "Hooker, Taylor, Bull, Pearson, Barrow, Tillotson,
+        Warburton, and Horne, names mighty in their generation, are broken and wrecked before the
+        power of a nation's will.", 'One vessel alone can ride those waves; it is the boat of Peter,
+        the ark of God.', 'And now, my brethren, it is plain that this doctrine does not stand by
+        itself:—if the grace of Baptism is not to be taught dogmatically in the National Church,
+        {26} if it be not a heresy to deny it, if to hold it and not to hold it be but matters of
+        opinion, what other doctrine which that Church professes stands on a firmer or more secure
+        foundation?']</source>
+    <entities>['Day', 'BishopMant', 'ArchbishopLawrence', 'BishopVanMildert', 'ArchbishopSutton',
+        'ArchbishopHowley', 'VeryDawning', 'GiantOcean', 'CablesOfTheSmallerCraft', 'SmallerCraft',
+        'Bosom', 'Beach', 'Hooker', 'Taylor', 'Bull', 'Pearson', 'Barrow', 'Tillotson', 'Warburton',
+        'Horne', 'WarburtonAndHorne', 'Names', 'Generation', 'Power', 'Will', 'Vessel', 'Waves',
+        'Boat', 'Peter', 'Ark', 'God', 'Brethren', 'Doctrine', 'Grace', 'Baptism', 'NationalChurch',
+        'Heresy', 'Matters', 'Opinion', 'Church', 'FirmerFoundation', 'SecureFoundation',
+        'Foundation']</entities>
+    <query>[]</query>
+    <target>Que dia para o Bispo Mant e o Arcebispo Lawrence, e o Bispo Van Mildert, e o Arcebispo
+        Sutton, e, como podemos confiar, que dia teria sido para o Arcebispo Howley, levado na sua
+        alvorada! O oceano gigante de repente inchou e agitou-se, e majestosamente, mas com
+        maestria, rompe os cabos das embarcações menores que repousam em seu seio, e as encalha na
+        praia. Hooker, Taylor, Bull, Pearson, Barrow, Tillotson, Warburton e Horne, nomes poderosos
+        na sua geração, são quebrados e naufragados diante do poder da vontade de uma nação. Uma
+        única embarcação pode navegar nessas ondas; é o barco de Pedro, a arca de Deus. E agora,
+        meus irmãos, é claro que esta doutrina não se sustenta por si só:—se a graça do Batismo não
+        deve ser ensinada dogmaticamente na Igreja Nacional, {26} se não for uma heresia negá-la, se
+        defendê-la e não defendê-la forem apenas questões de opinião, que outra doutrina que essa
+        Igreja professa se apoia numa base mais firme ou mais segura?</target>
+    <source>['The same popular voice which has explained away the wording of the Office for Baptism,
+        may of course in a moment dispense with the Athanasian Creed altogether.', 'Who can doubt,
+        that if that symbol be not similarly dealt with in course of law in years to come, it is
+        because the present judgment will practically destroy its force as efficaciously, and with
+        less trouble to the lawyers?', 'No individual will dare to act on views which he knows to a
+        certainty would be overruled as soon as they are brought before a legal tribunal.', 'As to
+        the document itself, it will be obvious to allege that the details of the Athanasian Creed
+        were never intended for reception by national believers; that all that was intended (as has
+        before now been avowed) was to uphold a doctrine of a Trinity, and that, provided we hold
+        this "scriptural fact," it matters not whether we be Athanasians, Sabellians, Tritheists, or
+        Socinians, or rather we shall be neither one nor the other of them.', 'Precedents on the
+        other hand are easily adducible of Arian, Sabellian, and Unitarian Bishops and dignitaries,
+        and of divines who professed that Trinitarianism was a mere matter of opinion, both in
+        former times and now.']</source>
+    <entities>['PopularVoice', 'WordingOfTheOffice', 'Baptism', 'Moment', 'AthanasianCreed',
+        'Symbol', 'CourseOfLaw', 'Years', 'PresentJudgment', 'Force', 'Trouble', 'Lawyers',
+        'Individual', 'Views', 'Certainty', 'LegalTribunal', 'Document',
+        'DetailsOfTheAthanasianCreed', 'Reception', 'NationalBelievers', 'Doctrine', 'Trinity',
+        'ScripturalFact', 'Athanasians', 'Sabellians', 'Tritheists', 'Socinians', 'One', 'Other',
+        'Precedents', 'OtherHand', 'ArianBishops', 'SabellianBishops', 'UnitarianBishops',
+        'BishopsAndDignitaries', 'Divines', 'Trinitarianism', 'MatterOfOpinion', 'FormerTimes']</entities>
+    <query>[]</query>
+    <target>A mesma voz popular que justificou a redação do Ofício do Batismo pode, claro, em um
+        instante, dispensar o Credo Atanasiano por completo. Quem pode duvidar que, se esse símbolo
+        não for tratado de forma semelhante no curso da lei nos anos vindouros, é porque o
+        julgamento atual destruirá praticamente a sua força de forma tão eficaz e com menos
+        problemas para os advogados? Nenhum indivíduo ousará agir com base em opiniões que sabe com
+        certeza que seriam anuladas assim que fossem levadas perante um tribunal legal. Quanto ao
+        próprio documento, será óbvio alegar que os detalhes do Credo Atanasiano nunca foram
+        destinados à aceitação por crentes nacionais; que tudo o que se pretendia (como já foi
+        declarado antes) era sustentar uma doutrina da Trindade, e que, desde que sustentemos este
+        "fato escriturístico", não importa se somos Atanasianos, Sabelianos, Triteístas ou
+        Socinianos, ou, antes, não seremos nem um nem outro deles. Por outro lado, precedentes são
+        facilmente aduzíveis de Bispos e dignitários Arianos, Sabelianos e Unitários, e de teólogos
+        que professavam que o Trinitarismo era uma mera questão de opinião, tanto em tempos passados
+        quanto agora.</target>
+    <source>['Indeed it might with much reason be maintained, were the question before a court,
+        that, looking at the matter historically, Locke gave the death-blow {27} to the Catholic
+        phraseology on that fundamental doctrine among the Anglican clergy; and it is surely
+        undeniable, that such points as the Eternal Generation of the Son, the Homoüsion, and the
+        Hypostatic Union, have been silently discarded by the many, and but anxiously and
+        apologetically put forward by the few.', 'With this existing disposition in the minds of
+        English Churchmen towards a denial of the Catholic doctrine of the Trinity, I surely am not
+        rash in saying, that the recent judgment has virtually removed it from their authoritative
+        teaching altogether.', 'Nor can eternal punishment be received as an Anglican dogma, against
+        the strong feeling of the age, with so little in its favour in the national formularies; nor
+        original sin, considering that the national suspicion of it is countenanced and defended by
+        no less an authority of past times than Bishop Jeremy Taylor.', 'And much less the
+        inspiration of Scripture, and the existence of the evil spirit, doctrines which are not
+        mentioned in the Thirty-nine Articles at all.', 'Yet, plain though this be, at this moment
+        the Evangelical members of the Establishment are extolling the recent judgment, and are
+        transported at the triumph it gives them, as if it might not, or would not, in time to come,
+        be turned against themselves; as if, while it directly affected the doctrine of baptismal
+        grace, it had no bearing upon those of predestination, election, satisfaction,
+        justification, and others, of which they consider themselves {28} so especially the
+        champions.']</source>
+    <entities>['Reason', 'MuchReason', 'Question', 'Court', 'Matter', 'Locke', 'DeathBlow',
+        'Phraseology', 'CatholicPhraseology', 'Doctrine', 'FundamentalDoctrine', 'Clergy',
+        'AnglicanClergy', 'Points', 'SuchPoints', 'Son', 'Generation', 'EternalGeneration',
+        'GenerationOfTheSon', 'Homoüsion', 'Union', 'HypostaticUnion',
+        'HomoüsionAndHypostaticUnion', 'Many', 'Few', 'Disposition', 'ExistingDisposition', 'Minds',
+        'Churchmen', 'EnglishChurchmen', 'Denial', 'Trinity', 'CatholicDoctrine',
+        'DoctrineOfTheTrinity', 'Judgment', 'RecentJudgment', 'Teaching', 'AuthoritativeTeaching',
+        'Punishment', 'EternalPunishment', 'Dogma', 'AnglicanDogma', 'Feeling', 'StrongFeeling',
+        'Age', 'FeelingOfTheAge', 'Formularies', 'NationalFormularies', 'Sin', 'OriginalSin',
+        'Suspicion', 'NationalSuspicion', 'Authority', 'Times', 'PastTimes', 'BishopJeremyTaylor',
+        'Inspiration', 'Scripture', 'Existence', 'Spirit', 'EvilSpirit', 'ExistenceOfTheEvilSpirit',
+        'Doctrines', 'Articles', 'ThirtyNineArticles', 'InspirationAndExistenceOfTheEvilSpirit',
+        'Moment', 'Members', 'EvangelicalMembers', 'Establishment', 'MembersOfTheEstablishment',
+        'Triumph', 'Time', 'Grace', 'BaptismalGrace', 'Predestination', 'Election', 'Satisfaction',
+        'Justification', 'Others', 'Champions', 'JustificationAndOthers']</entities>
+    <query>[{'concept': 'http://example.org/newman#AnglicanChurch', 'aspect':
+        'http://example.org/newman#Establishment', 'label_en': 'Establishment', 'label_pt':
+        'Estabelecimento'}]</query>
+    <target>De fato, com muita razão se poderia sustentar, se a questão estivesse perante um
+        tribunal, que, olhando para o assunto historicamente, Locke deu o golpe fatal {27} à
+        fraseologia católica sobre essa doutrina fundamental entre o clero anglicano; e é certamente
+        inegável que pontos como a Geração Eterna do Filho, o Homoúsion e a União Hipostática, têm
+        sido silenciosamente descartados por muitos, e apenas ansiosamente e apologeticamente
+        apresentados por poucos. Com esta disposição existente nas mentes dos anglicanos ingleses em
+        direção à negação da doutrina católica da Trindade, eu certamente não sou precipitado ao
+        dizer que o julgamento recente a removeu virtualmente de seu ensino autoritário por
+        completo. Nem o castigo eterno pode ser recebido como um dogma anglicano, contra o forte
+        sentimento da época, com tão pouco a seu favor nos formulários nacionais; nem o pecado
+        original, considerando que a suspeita nacional sobre ele é apoiada e defendida por uma
+        autoridade de tempos passados nada menos que o Bispo Jeremy Taylor. E muito menos a
+        inspiração da Escritura, e a existência do espírito maligno, doutrinas que não são
+        mencionadas nos Trinta e Nove Artigos. No entanto, por mais claro que isso seja, neste
+        momento os membros Evangélicos do Estabelecimento estão exaltando o julgamento recente, e
+        estão exultantes com o triunfo que lhes confere, como se ele não pudesse, ou não fosse, no
+        futuro, ser usado contra eles mesmos; como se, embora afetasse diretamente a doutrina da
+        graça batismal, não tivesse qualquer relação com as da predestinação, eleição, satisfação,
+        justificação, e outras, das quais eles se consideram {28} tão especialmente os campeões.</target>
+    <source>['Poor victims!', 'do you dream that the spirit of the age is working for you, or are
+        you indeed secretly prepared to go further than you avow?', 'At least some of you are honest
+        enough to be praising the recent judgment on its own account, and blind enough not to see
+        what it involves; and so you contentedly and trustfully throw yourselves into the arms of
+        the age.', 'But it is "today for me, tomorrow for thee!"', 'Do you really think the age is
+        stripping Laud or Bull of his authority, in order to set up Whittaker or Baxter?']</source>
+    <entities>['Victims', 'PoorVictims', 'Spirit', 'Age', 'SpiritOfTheAge', 'Judgment',
+        'RecentJudgment', 'Account', 'OwnAccount', 'Arms', 'ArmsOfTheAge', 'Today', 'Tomorrow',
+        'Laud', 'Bull', 'Authority', 'Whittaker', 'Baxter']</entities>
+    <query>[]</query>
+    <target>Pobres vítimas! Vocês sonham que o espírito da época está trabalhando para vocês, ou
+        estão de fato secretamente preparados para ir mais longe do que admitem? Pelo menos alguns
+        de vocês são honestos o suficiente para elogiar a recente decisão por si mesma, e cegos o
+        suficiente para não ver o que ela implica; e assim vocês, contentes e confiantes, lançam-se
+        nos braços da época. Mas é "hoje para mim, amanhã para ti!" Vocês realmente pensam que a
+        época está despojando Laud ou Bull de sua autoridade, a fim de estabelecer Whittaker ou
+        Baxter?</target>
+    <source>['or with what expedient are you to elude a power, whose aid you have already invoked
+        against your enemies [Note 4]?', 'For us, Catholics, my brethren, while we clearly recognise
+        how things are going with our countrymen {29} and while we would not accelerate the march of
+        infidelity if we could help it, yet we are more desirous that you should leave a false
+        church for the true, than that a false church should hold its ground.', 'For if we are
+        blessed in converting any of you, we are effecting a direct, unequivocal, and substantial
+        benefit, which out-weighs all points of expedience—the salvation of your souls.', 'I do not
+        undervalue at all the advantage of institutions which, though not Catholic, keep out evils
+        worse than themselves.', 'Some restraint is better than none; systems which do not simply
+        inculcate divine truth, yet serve to keep men from being utterly hardened against it, when
+        at length it addresses them; they preserve a certain number of revealed doctrines in the
+        popular mind; they familiarize it to Christian ideas; they create religious associations;
+        and thus, remotely and negatively, they may even be said to prepare and dispose the soul in
+        a certain sense for those inspirations of grace, which, through the merits of Christ, are
+        freely given to all men for their salvation, all over the earth.']</source>
+    <entities>['Expedient', 'Power', 'Aid', 'Enemies', 'Note4', 'Catholics', 'Brethren', 'Things',
+        'Countrymen', 'March', 'Infidelity', 'FalseChurch', 'Ground', 'You', 'Benefit',
+        'DirectBenefit', 'UnequivocalBenefit', 'SubstantialBenefit', 'Points', 'Expedience',
+        'Salvation', 'Souls', 'Advantage', 'Institutions', 'Evils', 'Restraint', 'None', 'Systems',
+        'DivineTruth', 'Men', 'Length', 'Number', 'RevealedDoctrines', 'PopularMind',
+        'ChristianIdeas', 'ReligiousAssociations', 'Soul', 'CertainSense', 'Inspirations', 'Grace',
+        'Merits', 'Christ', 'Men', 'Salvation', 'Earth']</entities>
+    <query>[]</query>
+    <target>ou com que expediente vocês irão ludibriar um poder, cujo auxílio já invocaram contra
+        seus inimigos [Nota 4]? Para nós, católicos, meus irmãos, embora reconheçamos claramente
+        como as coisas estão a acontecer com os nossos compatriotas {29} e embora não quiséssemos
+        acelerar a marcha da infidelidade se pudéssemos evitá-lo, ainda assim, desejamos mais que
+        vocês deixem uma igreja falsa pela verdadeira, do que que uma igreja falsa se mantenha.
+        Pois, se formos abençoados em converter algum de vocês, estamos a realizar um benefício
+        direto, inequívoco e substancial, que supera todos os pontos de conveniência — a salvação
+        das vossas almas. Não subestimo de forma alguma a vantagem de instituições que, embora não
+        católicas, impedem males piores do que elas mesmas. Alguma restrição é melhor do que
+        nenhuma; sistemas que não inculcam simplesmente a verdade divina, mas servem para impedir
+        que os homens se endureçam completamente contra ela, quando finalmente ela se lhes dirige;
+        preservam um certo número de doutrinas reveladas na mente popular; familiarizam-na com as
+        ideias cristãs; criam associações religiosas; e assim, de forma remota e negativa, pode-se
+        até dizer que preparam e dispõem a alma, em certo sentido, para aquelas inspirações da graça
+        que, pelos méritos de Cristo, são livremente concedidas a todos os homens para a sua
+        salvação, em toda a terra.</target>
+    <source>['It is a plain duty, then, not to be forward in destroying religious institutions, even
+        though not Catholic, if we cannot replace them with what is better; but, from fear of
+        injuring them, to shrink from saving the souls of the individuals who live under them, would
+        be worldly wisdom, treachery to Christ, and uncharitableness to His redeemed.', 'As to the
+        Catholic Church herself, no vicissitude of {30} circumstances can hurt her which allows her
+        fair play.', 'If, indeed, from the ultimate resolution of all heresies and errors into some
+        one form of infidelity or scepticism, the nation was strong enough to turn upon her in
+        persecution, then indeed she might be expelled from our land, as she has been expelled
+        before now.', 'Then persecution would do its work, as it did three centuries ago.', 'But
+        this is an extreme case, which is not to be anticipated.']</source>
+    <entities>['PlainDuty', 'ReligiousInstitutions', 'Fear', 'SoulsOfTheIndividuals', 'Individuals',
+        'WorldlyWisdom', 'Treachery', 'Christ', 'Uncharitableness', 'HisRedeemed', 'CatholicChurch',
+        'Vicissitude', 'Circumstances', 'FairPlay', 'UltimateResolution', 'Resolution', 'Heresies',
+        'Errors', 'HeresiesAndErrors', 'AllHeresies', 'AllErrors', 'OneForm', 'Form', 'Infidelity',
+        'Scepticism', 'Nation', 'Persecution', 'Land', 'Work', 'ThreeCenturies', 'Centuries',
+        'ExtremeCase']</entities>
+    <query>[]</query>
+    <target>É, portanto, um dever claro não se apressar em destruir instituições religiosas, mesmo
+        que não católicas, se não podemos substituí-las por algo melhor; mas, por medo de
+        prejudicá-las, recusar-se a salvar as almas dos indivíduos que vivem sob elas seria
+        sabedoria mundana, traição a Cristo e falta de caridade para com os Seus redimidos. Quanto à
+        própria Igreja Católica, nenhuma vicissitude de circunstâncias pode prejudicá-la se lhe for
+        permitido agir livremente. Se, de fato, da resolução final de todas as heresias e erros em
+        alguma forma única de infidelidade ou ceticismo, a nação fosse forte o suficiente para se
+        voltar contra ela em perseguição, então ela poderia, de fato, ser expulsa de nossa terra,
+        como já foi expulsa antes. Então a perseguição faria o seu trabalho, como fez há três
+        séculos. Mas este é um caso extremo, que não deve ser antecipado.</target>
+    <source>['Till the nation becomes thus unanimous in unbelief, Catholics are secured by the
+        collision and balance of religious parties, and are sheltered under that claim of toleration
+        which each sect prefers for itself.', 'But give us as much as this, an open field, and we
+        ask no favour; every form of Protestantism turns to our advantage.', 'Its establishments of
+        religion remind the world of that archetypal Church of which it is a copyist; its Creeds
+        contain portions of our teaching; its quarrels and divisions serve to break up its
+        traditions, and rid its professors of their prejudices; its scepticism makes them turn in
+        admiration and in hope to her, who alone is clear in her teaching and consistent in its
+        transmission; its very abuse of her makes them inquire about her.', 'She fears nothing from
+        political parties; she shrinks from none of them; she can coalesce with any.', 'She is not
+        jealous of progress nor impatient with conservatism, if either be the national will.']</source>
+    <entities>['Nation', 'Unbelief', 'Catholics', 'Collision', 'Balance', 'ReligiousParties',
+        'CollisionAndBalance', 'Claim', 'Toleration', 'Sect', 'OpenField', 'Favour', 'Form',
+        'Protestantism', 'Advantage', 'Establishments', 'Religion', 'World', 'ArchetypalChurch',
+        'Copyist', 'Creeds', 'Portions', 'Teaching', 'Quarrels', 'Divisions',
+        'QuarrelsAndDivisions', 'Traditions', 'Professors', 'Prejudices', 'Scepticism',
+        'Admiration', 'Hope', 'Transmission', 'Abuse', 'PoliticalParties', 'Progress',
+        'Conservatism', 'NationalWill']</entities>
+    <query>[]</query>
+    <target>Até que a nação se torne assim unânime na incredulidade, os católicos são protegidos
+        pela colisão e equilíbrio dos partidos religiosos, e são abrigados sob aquela reivindicação
+        de tolerância que cada seita prefere para si mesma. Mas deem-nos apenas isto, um campo
+        aberto, e não pedimos favor algum; toda forma de Protestantismo se volta em nossa vantagem.
+        Suas instituições religiosas lembram o mundo daquela Igreja arquetípica da qual é copista;
+        seus Credos contêm porções de nosso ensinamento; suas disputas e divisões servem para
+        quebrar suas tradições e livrar seus professores de seus preconceitos; seu ceticismo os faz
+        voltar-se com admiração e esperança para ela, que sozinha é clara em seu ensinamento e
+        consistente em sua transmissão; seu próprio abuso dela os faz indagar sobre ela. Ela nada
+        teme dos partidos políticos; não se retrai de nenhum deles; pode unir-se a qualquer um. Ela
+        não tem ciúmes do progresso nem impaciência com o conservadorismo, se qualquer um deles for
+        a vontade nacional.</target>
+    <source>['Nor is there anything for us to fear (except for the moment and for the sake of
+        individuals) in that movement towards {31} Pantheism, in the Protestant world [Note 5],
+        which excites the special anxiety of many; for, in truth, there is something so repugnant to
+        the feelings of man, in systems which deprive God of His perfections, and reduce Him to a
+        name, which remove the Creator to an indefinite distance from His creatures, under the
+        pretence of bringing them near to Him, and refuse Him the liberty of sending mediators and
+        ordaining instruments to connect them with Him, which deny the existence of sin, the need of
+        pardon, and the fact of punishment, which maintain that man is happy here and sufficient for
+        himself, when he feels so keenly his own ignorance and desolateness,—and on the other hand,
+        the sects and parties round about us are so utterly helpless to remedy his evils, and to
+        supply his need,—that the preachers of these new ideas from Germany and America are really,
+        however much against their will, like Caiphas, prophesying for us.', 'Surely they will find
+        no resting-place anywhere for their feet, and the feet of their disciples, but will be
+        tumbled down from one depth of blasphemy to another, till they arrive at sheer and naked
+        atheism, the reductio ad absurdum of their initial principles.', 'Logic is a stern master;
+        they feel it, they protest against it; they profess to hate it, and would fain dispense with
+        it; but it is the law of their intellectual {32} nature.', 'Struggling and shrieking, but in
+        vain, will they make the inevitable descent into that pit from which there is no return,
+        except through the almost miraculous grace of God, the grant of which in this life is never
+        hopeless.', 'And Israel, without a fight, will see their enemies dead upon the seashore.']</source>
+    <entities>['Anything', 'Us', 'Moment', 'Sake', 'Individuals', 'Movement', 'Pantheism',
+        'ProtestantWorld', 'Note', 'SpecialAnxiety', 'Many', 'Truth', 'Something', 'Feelings',
+        'Man', 'FeelingsOfTheMan', 'Systems', 'God', 'Perfections', 'Him', 'Name', 'Creator',
+        'IndefiniteDistance', 'Creatures', 'Pretence', 'Liberty', 'Mediators', 'Instruments',
+        'Them', 'Existence', 'Sin', 'ExistenceOfTheSin', 'Need', 'Pardon', 'NeedOfThePardon',
+        'Fact', 'Punishment', 'FactOfThePunishment', 'Himself', 'OwnIgnorance', 'Desolateness',
+        'OwnIgnoranceAndDesolateness', 'OtherHand', 'Sects', 'Parties', 'SectsAndParties', 'Evils',
+        'Preachers', 'NewIdeas', 'Germany', 'America', 'Will', 'Caiphas', 'RestingPlace', 'Feet',
+        'Disciples', 'FeetOfTheDisciples', 'Depth', 'Blasphemy', 'Another', 'NakedAtheism',
+        'ReductioAdAbsurdum', 'InitialPrinciples', 'Logic', 'SternMaster', 'It', 'Law',
+        'IntellectualNature', 'Vain', 'InevitableDescent', 'Pit', 'Return', 'MiraculousGrace',
+        'Grace', 'GraceOfTheGod', 'Grant', 'Life', 'Israel', 'Fight', 'Enemies', 'Seashore']</entities>
+    <query>[]</query>
+    <target>Nem há nada para temermos (exceto pelo momento e em benefício de indivíduos) naquele
+        movimento em direção ao {31} Panteísmo, no mundo Protestante [Nota 5], que excita a
+        ansiedade especial de muitos; pois, em verdade, há algo tão repugnante aos sentimentos do
+        homem, em sistemas que privam Deus de Suas perfeições e O reduzem a um nome, que removem o
+        Criador para uma distância indefinida de Suas criaturas, sob o pretexto de as aproximar
+        d'Ele, e Lhe recusam a liberdade de enviar mediadores e ordenar instrumentos para
+        conectá-las a Ele, que negam a existência do pecado, a necessidade de perdão e o fato do
+        castigo, que sustentam que o homem é feliz aqui e suficiente para si mesmo, quando sente tão
+        agudamente sua própria ignorância e desolação,—e, por outro lado, as seitas e partidos ao
+        nosso redor são tão completamente impotentes para remediar seus males e suprir suas
+        necessidades,—que os pregadores dessas novas ideias da Alemanha e da América estão, na
+        verdade, por mais que contra a sua vontade, como Caifás, profetizando por nós. Certamente
+        não encontrarão repouso em lugar algum para seus pés, e para os pés de seus discípulos, mas
+        serão derrubados de uma profundidade de blasfêmia para outra, até chegarem ao ateísmo puro e
+        nu, a reductio ad absurdum de seus princípios iniciais. A lógica é um mestre severo; eles a
+        sentem, protestam contra ela; professam odiá-la e de bom grado a dispensariam; mas é a lei
+        de sua natureza intelectual {32}. Lutando e gritando, mas em vão, farão a descida inevitável
+        àquele abismo do qual não há retorno, exceto pela graça quase milagrosa de Deus, cuja
+        concessão nesta vida nunca é sem esperança. E Israel, sem luta, verá seus inimigos mortos na
+        beira do mar.</target>
+    <source>['I will but observe in conclusion, that, in thus explaining the feeling under which I
+        address myself to members of the Anglican communion in these Lectures, I have advanced one
+        step towards fulfilling the object with which I have undertaken them.', 'For it is a very
+        common difficulty which troubles men, when they contemplate submission to the Catholic
+        Church, that perhaps they shall thus be weakening the communion they leave, which, with
+        whatever defects, they see in matter of fact to be a defence of Christianity against its
+        enemies.', 'No, my brethren, you will not be harming it; if the National Church falls, it
+        falls because it is national; because it left the centre of unity in the sixteenth century,
+        not because you leave it in the nineteenth.', 'Cranmer, Parker, Jewell, will complete their
+        own work; they who made it, will be its destruction.']</source>
+    <entities>['Conclusion', 'Feeling', 'Members', 'AnglicanCommunion', 'Lectures', 'OneStep',
+        'Object', 'Difficulty', 'Men', 'Submission', 'CatholicChurch', 'Communion', 'Defects',
+        'Matter', 'Fact', 'Defence', 'Christianity', 'Enemies', 'Brethren', 'NationalChurch',
+        'CentreOfTheUnity', 'SixteenthCentury', 'Nineteenth', 'Cranmer', 'Parker', 'Jewell',
+        'OwnWork', 'Destruction']</entities>
+    <query>[]</query>
+    <target>Observarei apenas, em conclusão, que, ao explicar assim o sentimento sob o qual me
+        dirijo aos membros da comunhão Anglicana nestas Conferências, dei um passo em direção ao
+        cumprimento do objetivo com que as empreendi. Pois é uma dificuldade muito comum que
+        perturba os homens, quando contemplam a submissão à Igreja Católica, o receio de que talvez
+        assim estejam a enfraquecer a comunhão que deixam, a qual, com quaisquer defeitos, veem de
+        facto como uma defesa do Cristianismo contra os seus inimigos. Não, meus irmãos, vocês não a
+        estarão a prejudicar; se a Igreja Nacional cair, cairá porque é nacional; porque deixou o
+        centro de unidade no século XVI, não porque vocês a deixem no século XIX. Cranmer, Parker,
+        Jewell, completarão a sua própria obra; aqueles que a fizeram, serão a sua destruição.</target>
+</text>

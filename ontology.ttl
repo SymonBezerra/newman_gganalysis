@@ -18,7 +18,7 @@
     rdfs:subClassOf gufo:IntrinsicMode .
 
 :semanticAspectOf rdf:type owl:ObjectProperty ;
-    rdfs:label "semantic aspect of" ;
+    rdfs:label "semanticAspectOf" ;
     rdfs:comment "This property links a semantic aspect to the concept it describes." ;
     rdfs:subPropertyOf gufo:inheresIn ;
     rdfs:domain :SemanticAspect ;

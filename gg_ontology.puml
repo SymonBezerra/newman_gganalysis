@@ -1,0 +1,21 @@
+@startuml gg_analysis
+
+top to bottom direction
+
+hide circle
+skinparam nodesep 120
+skinparam ranksep 120
+skinparam linetype ortho
+
+class Concept <<Category>>
+class SemanticAspect <<Category>>
+
+class Aspect
+class Object
+
+SemanticAspect --> Concept : "semanticAspectOf"
+SemanticAspect <|-- Aspect
+Concept <|-- Object
+
+
+@enduml
